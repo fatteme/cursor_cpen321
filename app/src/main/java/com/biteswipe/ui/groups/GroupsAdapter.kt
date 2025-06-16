@@ -32,14 +32,14 @@ class GroupsAdapter(
 
         init {
             binding.root.setOnClickListener {
-                val position = bindingAdapterPosition
+                val position = adapterPosition
                 if (position != RecyclerView.NO_POSITION) {
                     onGroupClick(getItem(position))
                 }
             }
 
             binding.buttonJoin.setOnClickListener {
-                val position = bindingAdapterPosition
+                val position = adapterPosition
                 if (position != RecyclerView.NO_POSITION) {
                     onJoinClick(getItem(position))
                 }
@@ -51,7 +51,7 @@ class GroupsAdapter(
                 textGroupName.text = group.name
                 textMemberCount.text = "${group.members.size} members"
                 textStatus.text = group.status.name
-                buttonJoin.text = if (group.members.any { it.id == "current_user_id" }) {
+                buttonJoin.text = if (group.members.any { it.userId == "current_user_id" }) {
                     "Leave"
                 } else {
                     "Join"

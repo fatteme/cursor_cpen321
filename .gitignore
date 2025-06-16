@@ -2,5 +2,7 @@
 .idea/
 build/
 
+app/build/
+
 server/node_modules/
 server/dist/
