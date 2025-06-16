@@ -9,7 +9,7 @@ import com.biteswipe.data.repository.UserRepository
 import kotlinx.coroutines.launch
 
 class ProfileViewModel : ViewModel() {
-    private val repository = UserRepository()
+    private val repository = UserRepository() // TODO: Pass auth token from a central auth manager
 
     private val _profile = MutableLiveData<UserProfile>()
     val profile: LiveData<UserProfile> = _profile
@@ -20,6 +20,9 @@ class ProfileViewModel : ViewModel() {
     private val _error = MutableLiveData<String>()
     val error: LiveData<String> = _error
 
+    private val _navigateToLogin = MutableLiveData<Boolean>()
+    val navigateToLogin: LiveData<Boolean> = _navigateToLogin
+
     init {
         loadProfile()
     }
@@ -28,8 +31,13 @@ class ProfileViewModel : ViewModel() {
         viewModelScope.launch {
             try {
                 _isLoading.value = true
-                val userProfile = repository.getUserProfile()
-                _profile.value = userProfile
+                repository.getUserProfile()
+                    .onSuccess { userProfile ->
+                        _profile.value = userProfile
+                    }
+                    .onFailure { e ->
+                        _error.value = e.message
+                    }
             } catch (e: Exception) {
                 _error.value = e.message
             } finally {
@@ -41,10 +49,23 @@ class ProfileViewModel : ViewModel() {
     fun logout() {
         viewModelScope.launch {
             try {
+                _isLoading.value = true
                 repository.logout()
+                    .onSuccess {
+                        _navigateToLogin.value = true
+                    }
+                    .onFailure { e ->
+                        _error.value = e.message
+                    }
             } catch (e: Exception) {
                 _error.value = e.message
+            } finally {
+                _isLoading.value = false
             }
         }
+    }
+
+    fun onNavigationHandled() {
+        _navigateToLogin.value = false
     }
 } 

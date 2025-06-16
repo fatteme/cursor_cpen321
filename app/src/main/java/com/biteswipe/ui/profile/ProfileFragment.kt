@@ -6,6 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
+import androidx.navigation.fragment.findNavController
+import com.biteswipe.R
 import com.biteswipe.databinding.FragmentProfileBinding
 import com.bumptech.glide.Glide
 
@@ -38,7 +40,6 @@ class ProfileFragment : Fragment() {
 
         binding.logoutButton.setOnClickListener {
             viewModel.logout()
-            // TODO: Navigate to login screen
         }
     }
 
@@ -50,18 +51,28 @@ class ProfileFragment : Fragment() {
             binding.dislikesCount.text = profile.dislikesCount.toString()
             binding.matchesCount.text = profile.matchesCount.toString()
 
-            // Load profile image
-            profile.profileImageUrl?.let { imageUrl ->
+            profile.profileImageUrl?.let { url ->
                 Glide.with(this)
-                    .load(imageUrl)
+                    .load(url)
                     .circleCrop()
                     .into(binding.profileImage)
             }
         }
 
+        viewModel.isLoading.observe(viewLifecycleOwner) { isLoading ->
+            binding.progressBar.visibility = if (isLoading) View.VISIBLE else View.GONE
+        }
+
         viewModel.error.observe(viewLifecycleOwner) { error ->
             error?.let {
                 // TODO: Show error message to user
+            }
+        }
+
+        viewModel.navigateToLogin.observe(viewLifecycleOwner) { shouldNavigate ->
+            if (shouldNavigate) {
+                findNavController().navigate(R.id.action_profileFragment_to_loginFragment)
+                viewModel.onNavigationHandled()
             }
         }
     }

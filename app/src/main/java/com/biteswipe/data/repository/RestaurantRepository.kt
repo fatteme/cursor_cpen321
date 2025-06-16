@@ -19,7 +19,7 @@ class RestaurantRepository {
 
     suspend fun likeRestaurant(restaurantId: String): Result<Unit> = withContext(Dispatchers.IO) {
         try {
-            api.likeRestaurant(restaurantId)
+        api.likeRestaurant(restaurantId)
         } catch (e: Exception) {
             Result.failure(e)
         }
@@ -27,7 +27,7 @@ class RestaurantRepository {
 
     suspend fun dislikeRestaurant(restaurantId: String): Result<Unit> = withContext(Dispatchers.IO) {
         try {
-            api.dislikeRestaurant(restaurantId)
+        api.dislikeRestaurant(restaurantId)
         } catch (e: Exception) {
             Result.failure(e)
         }
@@ -35,7 +35,7 @@ class RestaurantRepository {
 
     suspend fun getRestaurantsByLocation(location: LatLng, radius: Int): Result<List<Restaurant>> = withContext(Dispatchers.IO) {
         try {
-            api.getRestaurantsByLocation(location, radius)
+        api.getRestaurantsByLocation(location, radius)
         } catch (e: Exception) {
             Result.failure(e)
         }

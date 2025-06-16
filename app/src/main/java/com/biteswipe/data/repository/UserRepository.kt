@@ -5,25 +5,46 @@ import com.biteswipe.data.model.UserProfile
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
-class UserRepository {
-    private val api = UserApi()
+class UserRepository(private val authToken: String? = null) {
+    private val api = UserApi(authToken)
 
-    suspend fun getUserProfile(): UserProfile = withContext(Dispatchers.IO) {
-        // TODO: Implement actual API call
-        // For now, return mock data
-        UserProfile(
-            id = "1",
-            username = "John Doe",
-            email = "john.doe@example.com",
-            profileImageUrl = "https://example.com/profile.jpg",
-            likesCount = 42,
-            dislikesCount = 15,
-            matchesCount = 8
-        )
+    suspend fun getUserProfile(): Result<UserProfile> = withContext(Dispatchers.IO) {
+        try {
+            api.getUserProfile()
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
     }
 
-    suspend fun logout() = withContext(Dispatchers.IO) {
-        // TODO: Implement actual API call
-        api.logout()
+    suspend fun logout(): Result<Unit> = withContext(Dispatchers.IO) {
+        try {
+            api.logout()
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
+    }
+
+    suspend fun updateProfile(profile: UserProfile): Result<UserProfile> = withContext(Dispatchers.IO) {
+        try {
+            api.updateProfile(profile)
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
+    }
+
+    suspend fun updatePreferences(preferences: Map<String, Any>): Result<Unit> = withContext(Dispatchers.IO) {
+        try {
+            api.updatePreferences(preferences)
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
+    }
+
+    suspend fun getPreferences(): Result<Map<String, Any>> = withContext(Dispatchers.IO) {
+        try {
+            api.getPreferences()
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
     }
 }

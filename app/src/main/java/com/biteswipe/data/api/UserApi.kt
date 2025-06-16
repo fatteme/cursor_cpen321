@@ -8,7 +8,29 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.*
 import java.io.IOException
 
+data class LoginRequest(
+    val email: String,
+    val password: String
+)
+
+data class RegisterRequest(
+    val username: String,
+    val email: String,
+    val password: String
+)
+
+data class LoginResponse(
+    val token: String,
+    val user: UserProfile
+)
+
 interface UserApiService {
+    @POST("auth/login")
+    suspend fun login(@Body request: LoginRequest): LoginResponse
+
+    @POST("auth/register")
+    suspend fun register(@Body request: RegisterRequest): LoginResponse
+
     @GET("users/profile")
     suspend fun getUserProfile(): UserProfile
 
@@ -51,6 +73,18 @@ class UserApi(private val authToken: String? = null) {
         .build()
 
     private val apiService = retrofit.create(UserApiService::class.java)
+
+    suspend fun login(email: String, password: String): Result<LoginResponse> = try {
+        Result.success(apiService.login(LoginRequest(email, password)))
+    } catch (e: IOException) {
+        Result.failure(e)
+    }
+
+    suspend fun register(username: String, email: String, password: String): Result<LoginResponse> = try {
+        Result.success(apiService.register(RegisterRequest(username, email, password)))
+    } catch (e: IOException) {
+        Result.failure(e)
+    }
 
     suspend fun getUserProfile(): Result<UserProfile> = try {
         Result.success(apiService.getUserProfile())

@@ -2,12 +2,60 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/navigation_swipe">
+    app:startDestination="@id/loginFragment">
 
     <fragment
-        android:id="@+id/navigation_swipe"
+        android:id="@+id/loginFragment"
+        android:name="com.biteswipe.ui.auth.LoginFragment"
+        android:label="Login">
+        <action
+            android:id="@+id/action_loginFragment_to_swipeFragment"
+            app:destination="@id/swipeFragment"
+            app:popUpTo="@id/loginFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_loginFragment_to_registerFragment"
+            app:destination="@id/registerFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.biteswipe.ui.auth.RegisterFragment"
+        android:label="Register">
+        <action
+            android:id="@+id/action_registerFragment_to_swipeFragment"
+            app:destination="@id/swipeFragment"
+            app:popUpTo="@id/loginFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/swipeFragment"
         android:name="com.biteswipe.ui.swipe.SwipeFragment"
-        android:label="Swipe" />
+        android:label="Swipe">
+        <action
+            android:id="@+id/action_swipeFragment_to_profileFragment"
+            app:destination="@id/profileFragment" />
+        <action
+            android:id="@+id/action_swipeFragment_to_groupsFragment"
+            app:destination="@id/groupsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.biteswipe.ui.profile.ProfileFragment"
+        android:label="Profile">
+        <action
+            android:id="@+id/action_profileFragment_to_loginFragment"
+            app:destination="@id/loginFragment"
+            app:popUpTo="@id/swipeFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/groupsFragment"
+        android:name="com.biteswipe.ui.groups.GroupsFragment"
+        android:label="Groups" />
 
     <fragment
         android:id="@+id/navigation_groups"
@@ -26,10 +74,5 @@
             android:name="groupId"
             app:argType="string" />
     </fragment>
-
-    <fragment
-        android:id="@+id/navigation_profile"
-        android:name="com.biteswipe.ui.profile.ProfileFragment"
-        android:label="Profile" />
 
 </navigation> 
