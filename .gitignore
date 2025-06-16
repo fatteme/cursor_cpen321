@@ -6,3 +6,6 @@ app/build/
 
 server/node_modules/
 server/dist/
+
+.DS_Store
+**/**/.DS_Store

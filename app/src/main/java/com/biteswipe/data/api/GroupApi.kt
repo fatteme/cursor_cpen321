@@ -39,7 +39,7 @@ data class CreateGroupRequest(
 )
 
 class GroupApi {
-    private val baseUrl = "http://your-api-url.com/api/" // TODO: Replace with actual API URL
+    private val baseUrl = "http://localhost:3000/api/" // This points to localhost:3000 on your development machine
 
     private val loggingInterceptor = HttpLoggingInterceptor().apply {
         level = HttpLoggingInterceptor.Level.BODY
