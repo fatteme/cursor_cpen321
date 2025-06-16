@@ -30,7 +30,12 @@ class SwipeViewModel : ViewModel() {
             try {
                 _currentRestaurant.value?.let { restaurant ->
                     repository.likeRestaurant(restaurant.id)
-                    loadNextRestaurant()
+                        .onSuccess {
+                            loadNextRestaurant()
+                        }
+                        .onFailure { e ->
+                            _error.value = e.message
+                        }
                 }
             } catch (e: Exception) {
                 _error.value = e.message
@@ -43,7 +48,12 @@ class SwipeViewModel : ViewModel() {
             try {
                 _currentRestaurant.value?.let { restaurant ->
                     repository.dislikeRestaurant(restaurant.id)
-                    loadNextRestaurant()
+                        .onSuccess {
+                            loadNextRestaurant()
+                        }
+                        .onFailure { e ->
+                            _error.value = e.message
+                        }
                 }
             } catch (e: Exception) {
                 _error.value = e.message
@@ -55,8 +65,13 @@ class SwipeViewModel : ViewModel() {
         viewModelScope.launch {
             try {
                 _isLoading.value = true
-                val restaurant = repository.getNextRestaurant()
-                _currentRestaurant.value = restaurant
+                repository.getNextRestaurant()
+                    .onSuccess { restaurant ->
+                        _currentRestaurant.value = restaurant
+                    }
+                    .onFailure { e ->
+                        _error.value = e.message
+                    }
             } catch (e: Exception) {
                 _error.value = e.message
             } finally {

@@ -9,33 +9,51 @@ import kotlinx.coroutines.withContext
 class RestaurantRepository {
     private val api = RestaurantApi()
 
-    suspend fun getNextRestaurant(): Restaurant = withContext(Dispatchers.IO) {
-        // TODO: Implement actual API call
-        // For now, return mock data
-        Restaurant(
-            id = "1",
-            name = "Sample Restaurant",
-            address = "123 Main St, Vancouver, BC",
-            rating = 4.5,
-            location = LatLng(49.2827, -123.1207),
-            photoUrl = "https://example.com/photo.jpg",
-            cuisine = listOf("italian", "pizza"),
-            priceLevel = 2
-        )
+    suspend fun getNextRestaurant(): Result<Restaurant> = withContext(Dispatchers.IO) {
+        try {
+            api.getNextRestaurant()
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
     }
 
-    suspend fun likeRestaurant(restaurantId: String) = withContext(Dispatchers.IO) {
-        // TODO: Implement actual API call
-        api.likeRestaurant(restaurantId)
+    suspend fun likeRestaurant(restaurantId: String): Result<Unit> = withContext(Dispatchers.IO) {
+        try {
+            api.likeRestaurant(restaurantId)
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
     }
 
-    suspend fun dislikeRestaurant(restaurantId: String) = withContext(Dispatchers.IO) {
-        // TODO: Implement actual API call
-        api.dislikeRestaurant(restaurantId)
+    suspend fun dislikeRestaurant(restaurantId: String): Result<Unit> = withContext(Dispatchers.IO) {
+        try {
+            api.dislikeRestaurant(restaurantId)
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
     }
 
-    suspend fun getRestaurantsByLocation(location: LatLng, radius: Int): List<Restaurant> = withContext(Dispatchers.IO) {
-        // TODO: Implement actual API call
-        api.getRestaurantsByLocation(location, radius)
+    suspend fun getRestaurantsByLocation(location: LatLng, radius: Int): Result<List<Restaurant>> = withContext(Dispatchers.IO) {
+        try {
+            api.getRestaurantsByLocation(location, radius)
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
+    }
+
+    suspend fun getRestaurantDetails(restaurantId: String): Result<Restaurant> = withContext(Dispatchers.IO) {
+        try {
+            api.getRestaurantDetails(restaurantId)
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
+    }
+
+    suspend fun getRestaurantHistory(): Result<List<Restaurant>> = withContext(Dispatchers.IO) {
+        try {
+            api.getRestaurantHistory()
+        } catch (e: Exception) {
+            Result.failure(e)
+        }
     }
 } 
