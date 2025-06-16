@@ -4,10 +4,12 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.EditText
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.biteswipe.R
 import com.biteswipe.databinding.FragmentGroupsBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
@@ -62,7 +64,7 @@ class GroupsFragment : Fragment() {
     private fun showCreateGroupDialog() {
         val dialogBinding = layoutInflater.inflate(R.layout.dialog_create_group, null)
         MaterialAlertDialogBuilder(requireContext())
-            .setTitle(R.string.groups_create)
+            .setTitle(R.string.groups_create_title)
             .setView(dialogBinding)
             .setPositiveButton(R.string.create) { _, _ ->
                 val name = dialogBinding.findViewById<EditText>(R.id.editTextGroupName).text.toString()

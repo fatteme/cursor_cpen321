@@ -12,6 +12,19 @@
     <fragment
         android:id="@+id/navigation_groups"
         android:name="com.biteswipe.ui.groups.GroupsFragment"
-        android:label="Groups" />
+        android:label="Groups">
+        <action
+            android:id="@+id/action_groups_to_group_details"
+            app:destination="@id/navigation_group_details" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_group_details"
+        android:name="com.biteswipe.ui.groups.GroupDetailsFragment"
+        android:label="Group Details">
+        <argument
+            android:name="groupId"
+            app:argType="string" />
+    </fragment>
 
 </navigation> 

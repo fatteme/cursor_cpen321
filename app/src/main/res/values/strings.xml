@@ -30,4 +30,10 @@
     <string name="groups_error_joining">Error joining group</string>
     <string name="groups_error_leaving">Error leaving group</string>
     <string name="groups_error_loading">Error loading groups</string>
+    
+    <!-- Dialog -->
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
 </resources> 
