@@ -1,6 +1,21 @@
 R_DEF: Internal format may change without notice
 local
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
 drawable ic_add
+drawable ic_dislike
+drawable ic_group
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_like
+drawable ic_profile
+drawable ic_swipe
 id bottomNavigation
 id buttonContainer
 id buttonDislike
@@ -28,6 +43,8 @@ layout fragment_groups
 layout fragment_swipe
 layout item_group
 menu bottom_navigation_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
 navigation nav_graph
 string app_name
 string google_maps_key
@@ -51,3 +68,4 @@ string profile_settings
 string swipe_dislike
 string swipe_like
 string swipe_no_more
+style Theme.BiteSwipe

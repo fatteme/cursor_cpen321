@@ -1,0 +1,26 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml</file>
+  <line>19</line>
+  <module>BiteSwipe.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'profile'</description>
+  <highlighted_element>profile</highlighted_element>
+  <language>XML</language>
+  <offset>39</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml</file>
+  <line>19</line>
+  <module>BiteSwipe.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'ProfileFragment'</description>
+  <highlighted_element>ProfileFragment</highlighted_element>
+  <language>XML</language>
+  <offset>47</offset>
+  <length>15</length>
+</problem>
+</problems>

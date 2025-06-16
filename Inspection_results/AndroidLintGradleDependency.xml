@@ -1,0 +1,184 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>9</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of &lt;code&gt;compileSdkVersion&lt;/code&gt; than 34 is available: 35&lt;/html&gt;</description>
+  <highlighted_element>compileSdk 34</highlighted_element>
+  <language>Groovy</language>
+  <offset>4</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>44</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.core:core-ktx than 1.12.0 is available: 1.16.0&lt;/html&gt;</description>
+  <highlighted_element>'androidx.core:core-ktx:1.12.0'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>45</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.appcompat:appcompat than 1.6.1 is available: 1.7.1&lt;/html&gt;</description>
+  <highlighted_element>'androidx.appcompat:appcompat:1.6.1'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>46</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of com.google.android.material:material than 1.10.0 is available: 1.12.0&lt;/html&gt;</description>
+  <highlighted_element>'com.google.android.material:material:1.10.0'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>45</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>47</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.constraintlayout:constraintlayout than 2.1.4 is available: 2.2.1&lt;/html&gt;</description>
+  <highlighted_element>'androidx.constraintlayout:constraintlayout:2.1.4'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>50</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>50</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.lifecycle:lifecycle-viewmodel-ktx than 2.6.2 is available: 2.9.1&lt;/html&gt;</description>
+  <highlighted_element>'androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>50</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>51</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.lifecycle:lifecycle-livedata-ktx than 2.6.2 is available: 2.9.1&lt;/html&gt;</description>
+  <highlighted_element>'androidx.lifecycle:lifecycle-livedata-ktx:2.6.2'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>54</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of org.jetbrains.kotlinx:kotlinx-coroutines-android than 1.7.1 is available: 1.7.3&lt;/html&gt;</description>
+  <highlighted_element>'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>56</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>65</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of com.google.android.gms:play-services-maps than 18.1.0 is available: 19.2.0. Upgrading to at least 18.2.0 is highly recommended to take advantage of the new renderer, which supports customization options like map styling, 3D tiles, and is more reliable, with better support going forward.&lt;/html&gt;</description>
+  <highlighted_element>'com.google.android.gms:play-services-maps:18.1.0'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>50</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>66</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of com.google.android.gms:play-services-location than 21.0.1 is available: 21.3.0&lt;/html&gt;</description>
+  <highlighted_element>'com.google.android.gms:play-services-location:21.0.1'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>54</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>74</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.test.ext:junit than 1.1.5 is available: 1.2.1&lt;/html&gt;</description>
+  <highlighted_element>'androidx.test.ext:junit:1.1.5'</highlighted_element>
+  <language>Groovy</language>
+  <offset>30</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>75</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.test.espresso:espresso-core than 3.5.1 is available: 3.6.1&lt;/html&gt;</description>
+  <highlighted_element>'androidx.test.espresso:espresso-core:3.5.1'</highlighted_element>
+  <language>Groovy</language>
+  <offset>30</offset>
+  <length>44</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>78</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.navigation:navigation-fragment-ktx than 2.7.5 is available: 2.9.0&lt;/html&gt;</description>
+  <highlighted_element>'androidx.navigation:navigation-fragment-ktx:2.7.5'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>51</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/build.gradle</file>
+  <line>79</line>
+  <module>BiteSwipe.app</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+  <problem_class id="AndroidLintGradleDependency" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+  <hints />
+  <description>&lt;html&gt;A newer version of androidx.navigation:navigation-ui-ktx than 2.7.5 is available: 2.9.0&lt;/html&gt;</description>
+  <highlighted_element>'androidx.navigation:navigation-ui-ktx:2.7.5'</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>45</length>
+</problem>
+</problems>

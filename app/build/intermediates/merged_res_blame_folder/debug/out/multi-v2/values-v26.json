@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.biteswipe.app-mergeDebugResources-36:/values-v26/values-v26.xml",
+            "outputFile": "com.biteswipe.app-mergeDebugResources-50:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/Users/fati/.gradle/caches/8.12/transforms/b87ba922bc5d413a25b24fdb733c5cc6/transformed/appcompat-1.6.1/res/values-v26/values-v26.xml",
+                    "source": "/Users/fati/.gradle/caches/8.12/transforms/810d39866a5e47fc9751012b14039553/transformed/appcompat-1.6.1/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

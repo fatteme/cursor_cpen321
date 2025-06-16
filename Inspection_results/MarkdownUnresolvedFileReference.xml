@@ -1,0 +1,2858 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'app.js'</description>
+  <highlighted_element>app.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'worker.js'</description>
+  <highlighted_element>worker.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'stdout.js'</description>
+  <highlighted_element>stdout.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'app.js'</description>
+  <highlighted_element>app.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'worker.js'</description>
+  <highlighted_element>worker.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'stdout.js'</description>
+  <highlighted_element>stdout.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md</file>
+  <line>237</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'CONTRIBUTING.md'</description>
+  <highlighted_element>CONTRIBUTING.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'github.com'</description>
+  <highlighted_element>github.com</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'Kikobeats'</description>
+  <highlighted_element>Kikobeats</highlighted_element>
+  <language>Markdown</language>
+  <offset>44</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'github.com'</description>
+  <highlighted_element>github.com</highlighted_element>
+  <language>Markdown</language>
+  <offset>70</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'aearly'</description>
+  <highlighted_element>aearly</highlighted_element>
+  <language>Markdown</language>
+  <offset>81</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'github.com'</description>
+  <highlighted_element>github.com</highlighted_element>
+  <language>Markdown</language>
+  <offset>108</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'megawac'</description>
+  <highlighted_element>megawac</highlighted_element>
+  <language>Markdown</language>
+  <offset>119</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'github.com'</description>
+  <highlighted_element>github.com</highlighted_element>
+  <language>Markdown</language>
+  <offset>205</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'jdalton'</description>
+  <highlighted_element>jdalton</highlighted_element>
+  <language>Markdown</language>
+  <offset>216</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'github.com'</description>
+  <highlighted_element>github.com</highlighted_element>
+  <language>Markdown</language>
+  <offset>248</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>158</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'Rich-Harris'</description>
+  <highlighted_element>Rich-Harris</highlighted_element>
+  <language>Markdown</language>
+  <offset>259</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>223</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'github.com'</description>
+  <highlighted_element>github.com</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>223</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'aearly'</description>
+  <highlighted_element>aearly</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>223</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'github.com'</description>
+  <highlighted_element>github.com</highlighted_element>
+  <language>Markdown</language>
+  <offset>62</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md</file>
+  <line>223</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/async/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'megawac'</description>
+  <highlighted_element>megawac</highlighted_element>
+  <language>Markdown</language>
+  <offset>73</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>81</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>62</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>81</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test-parallel-array.js'</description>
+  <highlighted_element>test-parallel-array.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>67</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>127</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>63</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>127</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test-parallel-object.js'</description>
+  <highlighted_element>test-parallel-object.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>68</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>167</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>60</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>167</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test-serial-array.js'</description>
+  <highlighted_element>test-serial-array.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>65</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>209</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>61</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>209</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test-serial-object.js'</description>
+  <highlighted_element>test-serial-object.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>66</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>219</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'compare-property'</description>
+  <highlighted_element>compare-property</highlighted_element>
+  <language>Markdown</language>
+  <offset>31</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>227</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>44</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>227</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol ''</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>49</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>824</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>31</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>824</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'specs'</description>
+  <highlighted_element>specs</highlighted_element>
+  <language>Markdown</language>
+  <offset>36</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>824</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'interceptors.spec.js'</description>
+  <highlighted_element>interceptors.spec.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>42</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/babel-plugin-istanbul/node_modules/istanbul-lib-instrument/README.md</file>
+  <line>21</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/babel-plugin-istanbul/node_modules/istanbul-lib-instrument/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'v0-changes.md'</description>
+  <highlighted_element>v0-changes.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>17</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'CHANGELOG.md'</description>
+  <highlighted_element>CHANGELOG.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>23</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'www.gnu.org'</description>
+  <highlighted_element>www.gnu.org</highlighted_element>
+  <language>Markdown</language>
+  <offset>69</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>23</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'software'</description>
+  <highlighted_element>software</highlighted_element>
+  <language>Markdown</language>
+  <offset>81</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>23</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'bash'</description>
+  <highlighted_element>bash</highlighted_element>
+  <language>Markdown</language>
+  <offset>90</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>23</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol ''</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>95</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>484</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>80</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>484</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'support'</description>
+  <highlighted_element>support</highlighted_element>
+  <language>Markdown</language>
+  <offset>85</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>484</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'generate.js'</description>
+  <highlighted_element>generate.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>93</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>532</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>532</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>550</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>196</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/chokidar/README.md</file>
+  <line>289</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/chokidar/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory '.github'</description>
+  <highlighted_element>.github</highlighted_element>
+  <language>Markdown</language>
+  <offset>55</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/chokidar/README.md</file>
+  <line>289</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/chokidar/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'full_changelog.md'</description>
+  <highlighted_element>full_changelog.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>63</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/cookie/README.md</file>
+  <line>112</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/cookie/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'rfc-cutler-httpbis-partitioned-cookies'</description>
+  <highlighted_element>rfc-cutler-httpbis-partitioned-cookies</highlighted_element>
+  <language>Markdown</language>
+  <offset>67</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/depd/Readme.md</file>
+  <line>161</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/depd/Readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'files'</description>
+  <highlighted_element>files</highlighted_element>
+  <language>Markdown</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/depd/Readme.md</file>
+  <line>161</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/depd/Readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'message.png'</description>
+  <highlighted_element>message.png</highlighted_element>
+  <language>Markdown</language>
+  <offset>17</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/destroy/README.md</file>
+  <line>59</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/destroy/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'LICENSE.md'</description>
+  <highlighted_element>LICENSE.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>15</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dotenv/README-es.md</file>
+  <line>420</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dotenv/README-es.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'CONTRIBUTING.md'</description>
+  <highlighted_element>CONTRIBUTING.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dotenv/README.md</file>
+  <line>642</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dotenv/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'CONTRIBUTING.md'</description>
+  <highlighted_element>CONTRIBUTING.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ee-first/README.md</file>
+  <line>76</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ee-first/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'LICENSE.md'</description>
+  <highlighted_element>LICENSE.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>15</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/cookie/README.md</file>
+  <line>112</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/cookie/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'rfc-cutler-httpbis-partitioned-cookies'</description>
+  <highlighted_element>rfc-cutler-httpbis-partitioned-cookies</highlighted_element>
+  <language>Markdown</language>
+  <offset>67</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'app.js'</description>
+  <highlighted_element>app.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'worker.js'</description>
+  <highlighted_element>worker.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'stdout.js'</description>
+  <highlighted_element>stdout.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/express/Readme.md</file>
+  <line>147</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/express/Readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'Contributing.md'</description>
+  <highlighted_element>Contributing.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>29</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/express/Readme.md</file>
+  <line>151</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/express/Readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'Security.md'</description>
+  <highlighted_element>Security.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>99</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/fill-range/README.md</file>
+  <line>177</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/fill-range/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/fill-range/README.md</file>
+  <line>177</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/fill-range/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/fill-range/README.md</file>
+  <line>195</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/fill-range/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>196</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/glob/README.md</file>
+  <line>10</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/glob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'logo'</description>
+  <highlighted_element>logo</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/glob/README.md</file>
+  <line>10</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/glob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'glob.png'</description>
+  <highlighted_element>glob.png</highlighted_element>
+  <language>Markdown</language>
+  <offset>51</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/glob/README.md</file>
+  <line>378</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/glob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'oh-my-glob.gif'</description>
+  <highlighted_element>oh-my-glob.gif</highlighted_element>
+  <language>Markdown</language>
+  <offset>4</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/human-signals/CHANGELOG.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/human-signals/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'src'</description>
+  <highlighted_element>src</highlighted_element>
+  <language>Markdown</language>
+  <offset>31</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/human-signals/CHANGELOG.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/human-signals/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'main.d.ts'</description>
+  <highlighted_element>main.d.ts</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/human-signals/README.md</file>
+  <line>130</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/human-signals/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>34</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/human-signals/README.md</file>
+  <line>136</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/human-signals/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'CODE_OF_CONDUCT.md'</description>
+  <highlighted_element>CODE_OF_CONDUCT.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>18</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/human-signals/README.md</file>
+  <line>148</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/human-signals/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'CONTRIBUTING.md'</description>
+  <highlighted_element>CONTRIBUTING.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>13</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-extglob/README.md</file>
+  <line>73</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-extglob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-extglob/README.md</file>
+  <line>73</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-extglob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-extglob/README.md</file>
+  <line>77</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-extglob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>252</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-glob/README.md</file>
+  <line>144</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-glob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-glob/README.md</file>
+  <line>144</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-glob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-glob/README.md</file>
+  <line>162</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-glob/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>196</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-number/README.md</file>
+  <line>34</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-number/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test.js'</description>
+  <highlighted_element>test.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-number/README.md</file>
+  <line>99</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-number/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'benchmark'</description>
+  <highlighted_element>benchmark</highlighted_element>
+  <language>Markdown</language>
+  <offset>80</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-number/README.md</file>
+  <line>99</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-number/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'index.js'</description>
+  <highlighted_element>index.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>90</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-number/README.md</file>
+  <line>126</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-number/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-number/README.md</file>
+  <line>126</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-number/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-number/README.md</file>
+  <line>144</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-number/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>196</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-instrument/README.md</file>
+  <line>21</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-instrument/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'v0-changes.md'</description>
+  <highlighted_element>v0-changes.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'app.js'</description>
+  <highlighted_element>app.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'worker.js'</description>
+  <highlighted_element>worker.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'stdout.js'</description>
+  <highlighted_element>stdout.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-each/README.md</file>
+  <line>62</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-each/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'assets'</description>
+  <highlighted_element>assets</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-each/README.md</file>
+  <line>62</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-each/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'default-demo.gif'</description>
+  <highlighted_element>default-demo.gif</highlighted_element>
+  <language>Markdown</language>
+  <offset>29</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-each/README.md</file>
+  <line>68</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-each/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'assets'</description>
+  <highlighted_element>assets</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-each/README.md</file>
+  <line>68</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-each/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test-demo.gif'</description>
+  <highlighted_element>test-demo.gif</highlighted_element>
+  <language>Markdown</language>
+  <offset>29</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-each/README.md</file>
+  <line>72</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-each/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'assets'</description>
+  <highlighted_element>assets</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-each/README.md</file>
+  <line>72</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-each/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'tagged-template-literal.gif'</description>
+  <highlighted_element>tagged-template-literal.gif</highlighted_element>
+  <language>Markdown</language>
+  <offset>29</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-each/README.md</file>
+  <line>76</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-each/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'assets'</description>
+  <highlighted_element>assets</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-each/README.md</file>
+  <line>76</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-each/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'describe-demo.gif'</description>
+  <highlighted_element>describe-demo.gif</highlighted_element>
+  <language>Markdown</language>
+  <offset>29</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/json5/README.md</file>
+  <line>249</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/json5/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'SECURITY.md'</description>
+  <highlighted_element>SECURITY.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>37</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>108</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>56</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>912</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory '.github'</description>
+  <highlighted_element>.github</highlighted_element>
+  <language>Markdown</language>
+  <offset>68</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>912</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'contributing.md'</description>
+  <highlighted_element>contributing.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>76</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>918</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>41</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>932</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>932</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>934</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory '.github'</description>
+  <highlighted_element>.github</highlighted_element>
+  <language>Markdown</language>
+  <offset>37</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>934</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'contributing.md'</description>
+  <highlighted_element>contributing.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>45</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>952</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>196</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'app.js'</description>
+  <highlighted_element>app.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'worker.js'</description>
+  <highlighted_element>worker.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'stdout.js'</description>
+  <highlighted_element>stdout.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/normalize-path/README.md</file>
+  <line>66</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/normalize-path/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/normalize-path/README.md</file>
+  <line>66</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/normalize-path/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/normalize-path/README.md</file>
+  <line>84</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/normalize-path/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>196</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>667</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>667</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>669</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory '.github'</description>
+  <highlighted_element>.github</highlighted_element>
+  <language>Markdown</language>
+  <offset>37</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>669</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'contributing.md'</description>
+  <highlighted_element>contributing.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>45</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>687</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>196</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/resolve.exports/readme.md</file>
+  <line>21</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/resolve.exports/readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'app.js'</description>
+  <highlighted_element>app.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'worker.js'</description>
+  <highlighted_element>worker.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'stdout.js'</description>
+  <highlighted_element>stdout.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'app.js'</description>
+  <highlighted_element>app.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'worker.js'</description>
+  <highlighted_element>worker.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'stdout.js'</description>
+  <highlighted_element>stdout.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'app.js'</description>
+  <highlighted_element>app.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'worker.js'</description>
+  <highlighted_element>worker.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'node'</description>
+  <highlighted_element>node</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>252</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'stdout.js'</description>
+  <highlighted_element>stdout.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/source-map/CHANGELOG.md</file>
+  <line>123</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/source-map/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'bugzil.la'</description>
+  <highlighted_element>bugzil.la</highlighted_element>
+  <language>Markdown</language>
+  <offset>43</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/source-map/CHANGELOG.md</file>
+  <line>123</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/source-map/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '1090768'</description>
+  <highlighted_element>1090768</highlighted_element>
+  <language>Markdown</language>
+  <offset>53</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md</file>
+  <line>62</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'test'</description>
+  <highlighted_element>test</highlighted_element>
+  <language>Markdown</language>
+  <offset>64</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md</file>
+  <line>62</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'test.js'</description>
+  <highlighted_element>test.js</highlighted_element>
+  <language>Markdown</language>
+  <offset>69</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md</file>
+  <line>238</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'issues'</description>
+  <highlighted_element>issues</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md</file>
+  <line>238</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'new'</description>
+  <highlighted_element>new</highlighted_element>
+  <language>Markdown</language>
+  <offset>113</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md</file>
+  <line>256</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol '.verb.md'</description>
+  <highlighted_element>.verb.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>196</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>76</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory '.github'</description>
+  <highlighted_element>.github</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>76</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'contributing.md'</description>
+  <highlighted_element>contributing.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>114</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-node/README.md</file>
+  <line>13</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-node/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'logo.svg'</description>
+  <highlighted_element>logo.svg</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-node/README.md</file>
+  <line>155</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-node/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'website'</description>
+  <highlighted_element>website</highlighted_element>
+  <language>Markdown</language>
+  <offset>19</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-node/README.md</file>
+  <line>155</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-node/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'static'</description>
+  <highlighted_element>static</highlighted_element>
+  <language>Markdown</language>
+  <offset>27</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-node/README.md</file>
+  <line>155</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-node/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'img'</description>
+  <highlighted_element>img</highlighted_element>
+  <language>Markdown</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-node/README.md</file>
+  <line>155</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-node/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'screenshot.png'</description>
+  <highlighted_element>screenshot.png</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-node-dev/README.md</file>
+  <line>86</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-node-dev/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'CHANGELOG.md'</description>
+  <highlighted_element>CHANGELOG.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>272</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md</file>
+  <line>40</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory '.github'</description>
+  <highlighted_element>.github</highlighted_element>
+  <language>Markdown</language>
+  <offset>106</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md</file>
+  <line>40</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'contributing.md'</description>
+  <highlighted_element>contributing.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>114</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>74</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'doc'</description>
+  <highlighted_element>doc</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>74</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'ws.md'</description>
+  <highlighted_element>ws.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>28</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>91</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'doc'</description>
+  <highlighted_element>doc</highlighted_element>
+  <language>Markdown</language>
+  <offset>27</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>91</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'ws.md'</description>
+  <highlighted_element>ws.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>31</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>95</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'doc'</description>
+  <highlighted_element>doc</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>95</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'ws.md'</description>
+  <highlighted_element>ws.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>545</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'examples'</description>
+  <highlighted_element>examples</highlighted_element>
+  <language>Markdown</language>
+  <offset>27</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>545</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'express-session-parse'</description>
+  <highlighted_element>express-session-parse</highlighted_element>
+  <language>Markdown</language>
+  <offset>36</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>548</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'doc'</description>
+  <highlighted_element>doc</highlighted_element>
+  <language>Markdown</language>
+  <offset>23</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ws/README.md</file>
+  <line>548</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ws/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'ws.md'</description>
+  <highlighted_element>ws.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>27</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>42</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>19</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>42</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'api.md'</description>
+  <highlighted_element>api.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>24</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>121</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>30</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>121</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'typescript.md'</description>
+  <highlighted_element>typescript.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>35</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>162</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>54</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>162</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'browser.md'</description>
+  <highlighted_element>browser.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>59</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>172</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>172</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'api.md'</description>
+  <highlighted_element>api.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>173</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>173</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'examples.md'</description>
+  <highlighted_element>examples.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>19</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>174</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>174</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'tricks.md'</description>
+  <highlighted_element>tricks.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>175</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>175</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'tricks.md'</description>
+  <highlighted_element>tricks.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>28</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>176</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>176</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'tricks.md'</description>
+  <highlighted_element>tricks.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>39</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>177</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>177</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'tricks.md'</description>
+  <highlighted_element>tricks.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>178</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>178</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'tricks.md'</description>
+  <highlighted_element>tricks.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>179</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>179</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'tricks.md'</description>
+  <highlighted_element>tricks.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>180</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>180</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'tricks.md'</description>
+  <highlighted_element>tricks.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>181</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>21</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>181</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'advanced.md'</description>
+  <highlighted_element>advanced.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>182</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>41</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>182</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'advanced.md'</description>
+  <highlighted_element>advanced.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>183</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>183</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'advanced.md'</description>
+  <highlighted_element>advanced.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>43</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>184</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>184</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'advanced.md'</description>
+  <highlighted_element>advanced.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>38</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>185</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve directory 'docs'</description>
+  <highlighted_element>docs</highlighted_element>
+  <language>Markdown</language>
+  <offset>22</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>185</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'bundling.md'</description>
+  <highlighted_element>bundling.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>27</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve symbol 'contributing.md'</description>
+  <highlighted_element>contributing.md</highlighted_element>
+  <language>Markdown</language>
+  <offset>18</offset>
+  <length>15</length>
+</problem>
+</problems>

@@ -1,0 +1,62 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/qs/.editorconfig</file>
+  <line>11</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/qs/.editorconfig" />
+  <problem_class id="EditorConfigKeyCorrectness" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown property</problem_class>
+  <description>The property is not supported</description>
+  <highlighted_element>quote_type</highlighted_element>
+  <language>EditorConfig</language>
+  <offset>0</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/qs/.editorconfig</file>
+  <line>39</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/qs/.editorconfig" />
+  <problem_class id="EditorConfigKeyCorrectness" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown property</problem_class>
+  <description>The property is not supported</description>
+  <highlighted_element>indent</highlighted_element>
+  <language>EditorConfig</language>
+  <offset>0</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/resolve/.editorconfig</file>
+  <line>13</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/resolve/.editorconfig" />
+  <problem_class id="EditorConfigKeyCorrectness" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown property</problem_class>
+  <description>The property is not supported</description>
+  <highlighted_element>block_comment_start</highlighted_element>
+  <language>EditorConfig</language>
+  <offset>0</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/resolve/.editorconfig</file>
+  <line>14</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/resolve/.editorconfig" />
+  <problem_class id="EditorConfigKeyCorrectness" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown property</problem_class>
+  <description>The property is not supported</description>
+  <highlighted_element>block_comment</highlighted_element>
+  <language>EditorConfig</language>
+  <offset>0</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/resolve/.editorconfig</file>
+  <line>15</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/resolve/.editorconfig" />
+  <problem_class id="EditorConfigKeyCorrectness" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown property</problem_class>
+  <description>The property is not supported</description>
+  <highlighted_element>block_comment_end</highlighted_element>
+  <language>EditorConfig</language>
+  <offset>0</offset>
+  <length>17</length>
+</problem>
+</problems>

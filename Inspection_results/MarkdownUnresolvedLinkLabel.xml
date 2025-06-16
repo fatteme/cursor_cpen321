@@ -1,0 +1,136 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bson/LICENSE.md</file>
+  <line>189</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bson/LICENSE.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [name of copyright owner]</description>
+  <highlighted_element>[name of copyright owner]</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bson/vendor/text-encoding/LICENSE.md</file>
+  <line>225</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bson/vendor/text-encoding/LICENSE.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [name of copyright owner]</description>
+  <highlighted_element>[name of copyright owner]</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/js-yaml/README.md</file>
+  <line>145</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/js-yaml/README.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [, options ]</description>
+  <highlighted_element>[, options ]</highlighted_element>
+  <language>Markdown</language>
+  <offset>37</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/js-yaml/README.md</file>
+  <line>159</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/js-yaml/README.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [ , options ]</description>
+  <highlighted_element>[ , options ]</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/json5/README.md</file>
+  <line>3</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/json5/README.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [Build
+Status]</description>
+  <highlighted_element>[Build Status]</highlighted_element>
+  <language>Markdown</language>
+  <offset>72</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/json5/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/json5/README.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [Coverage
+Status]</description>
+  <highlighted_element>[Coverage Status]</highlighted_element>
+  <language>Markdown</language>
+  <offset>65</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mime/CHANGELOG.md</file>
+  <line>36</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mime/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [v2 Feedback request]</description>
+  <highlighted_element>[v2 Feedback request]</highlighted_element>
+  <language>Markdown</language>
+  <offset>11</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mime/CHANGELOG.md</file>
+  <line>37</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mime/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [v2 Feedback request]</description>
+  <highlighted_element>[v2 Feedback request]</highlighted_element>
+  <language>Markdown</language>
+  <offset>11</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/natural-compare/README.md</file>
+  <line>115</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/natural-compare/README.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [https://github.com/litejs/natural-compare-lite]</description>
+  <highlighted_element>[https://github.com/litejs/natural-compare-lite]</highlighted_element>
+  <language>Markdown</language>
+  <offset>17</offset>
+  <length>48</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/qs/CHANGELOG.md</file>
+  <line>56</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/qs/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [Fix]</description>
+  <highlighted_element>[Fix]</highlighted_element>
+  <language>Markdown</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/qs/CHANGELOG.md</file>
+  <line>188</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/qs/CHANGELOG.md" />
+  <problem_class id="MarkdownUnresolvedLinkLabel" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved link label</problem_class>
+  <description>Cannot resolve link label [Fix]</description>
+  <highlighted_element>[Fix]</highlighted_element>
+  <language>Markdown</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/layout/fragment_swipe.xml</file>
+  <line>7</line>
+  <module>BiteSwipe.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_swipe.xml" />
+  <problem_class id="AndroidLintFragmentTagUsage" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Use FragmentContainerView instead of the &lt;fragment&gt; tag</problem_class>
+  <hints />
+  <description>&lt;html&gt;Replace the &amp;lt;fragment&gt; tag with FragmentContainerView.&lt;/html&gt;</description>
+  <highlighted_element>fragment</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>8</length>
+</problem>
+</problems>

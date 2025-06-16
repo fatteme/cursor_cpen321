@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/api/RestaurantApi.kt</file>
+  <line>48</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.api</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.api.RestaurantApi java.lang.Object getNextRestaurant(kotlin.coroutines.Continuation&lt;? super com.biteswipe.data.model.Restaurant&gt; $completion)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;getNextRestaurant&quot; is never used</description>
+  <highlighted_element>getNextRestaurant</highlighted_element>
+  <language>kotlin</language>
+  <offset>16</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/repository/GroupRepository.kt</file>
+  <line>28</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.repository</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.repository.GroupRepository java.lang.Object getGroupDetails(java.lang.String groupId, kotlin.coroutines.Continuation&lt;? super error.NonExistentClass&gt; $completion)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;getGroupDetails&quot; is never used</description>
+  <highlighted_element>getGroupDetails</highlighted_element>
+  <language>kotlin</language>
+  <offset>16</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/repository/RestaurantRepository.kt</file>
+  <line>37</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.repository</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.repository.RestaurantRepository java.lang.Object getRestaurantsByLocation(com.google.android.gms.maps.model.LatLng location, int radius, kotlin.coroutines.Continuation&lt;? super java.util.List&lt;? extends com.biteswipe.data.model.Restaurant&gt;&gt; $completion)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;getRestaurantsByLocation&quot; is never used</description>
+  <highlighted_element>getRestaurantsByLocation</highlighted_element>
+  <language>kotlin</language>
+  <offset>16</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/groups/GroupsViewModel.kt</file>
+  <line>72</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.groups</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.ui.groups.GroupsViewModel void leaveGroup(java.lang.String groupId)" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Function &quot;leaveGroup&quot; is never used</description>
+  <highlighted_element>leaveGroup</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/swipe/SwipeViewModel.kt</file>
+  <line>19</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.swipe</package>
+  <entry_point TYPE="field" FQNAME="com.biteswipe.ui.swipe.SwipeViewModel isLoading" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Property &quot;isLoading&quot; is never used</description>
+  <highlighted_element>isLoading</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/swipe/SwipeViewModel.kt</file>
+  <line>22</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.swipe</package>
+  <entry_point TYPE="field" FQNAME="com.biteswipe.ui.swipe.SwipeViewModel error" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Property &quot;error&quot; is never used</description>
+  <highlighted_element>error</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+</problems>

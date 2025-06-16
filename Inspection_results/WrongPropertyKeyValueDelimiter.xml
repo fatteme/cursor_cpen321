@@ -1,0 +1,14 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/new.properties</file>
+  <line>1</line>
+  <module>BiteSwipe.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/new.properties" />
+  <problem_class id="WrongPropertyKeyValueDelimiter" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Property key/value delimiter doesn't match code style settings</problem_class>
+  <description>Property key/value delimiter doesn't match code style settings</description>
+  <highlighted_element>properties</highlighted_element>
+  <language>Properties</language>
+  <offset>0</offset>
+  <length>10</length>
+</problem>
+</problems>

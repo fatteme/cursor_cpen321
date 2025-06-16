@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/model/Group.kt</file>
+  <line>1</line>
+  <module>BiteSwipe.app.main</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/model/Group.kt" />
+  <problem_class id="PackageDirectoryMismatch" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Package name does not match containing directory</problem_class>
+  <description>Package directive does not match the file location</description>
+  <highlighted_element />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>1</length>
+</problem>
+</problems>

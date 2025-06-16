@@ -1,41 +1,55 @@
-com.biteswipe.app-constraintlayout-2.1.4-0 /Users/fati/.gradle/caches/8.12/transforms/0781d4e5d0d66cf016b78b5b0aab4eb1/transformed/constraintlayout-2.1.4/res
-com.biteswipe.app-lifecycle-livedata-2.6.2-1 /Users/fati/.gradle/caches/8.12/transforms/07c8e28ceba81be77e1f0fe16aeda69a/transformed/lifecycle-livedata-2.6.2/res
-com.biteswipe.app-profileinstaller-1.3.0-2 /Users/fati/.gradle/caches/8.12/transforms/097015dd2fd0c64aa43e9381d63ec1b4/transformed/profileinstaller-1.3.0/res
-com.biteswipe.app-appcompat-resources-1.6.1-3 /Users/fati/.gradle/caches/8.12/transforms/10b6f6bb4dfc5c76f836f8decd46c49b/transformed/appcompat-resources-1.6.1/res
-com.biteswipe.app-lifecycle-livedata-ktx-2.6.2-4 /Users/fati/.gradle/caches/8.12/transforms/3ba6ede83c97933bd512e4277ab51a9f/transformed/lifecycle-livedata-ktx-2.6.2/res
-com.biteswipe.app-emoji2-views-helper-1.2.0-5 /Users/fati/.gradle/caches/8.12/transforms/3c1e17bb2350d1252ff531e412113389/transformed/emoji2-views-helper-1.2.0/res
-com.biteswipe.app-play-services-base-18.1.0-6 /Users/fati/.gradle/caches/8.12/transforms/3f758bccb98e81100fd3b7b57d1e5311/transformed/play-services-base-18.1.0/res
-com.biteswipe.app-lifecycle-livedata-core-ktx-2.6.2-7 /Users/fati/.gradle/caches/8.12/transforms/42d24cfff906e49ff2d2d79a0db95363/transformed/lifecycle-livedata-core-ktx-2.6.2/res
-com.biteswipe.app-play-services-maps-18.1.0-8 /Users/fati/.gradle/caches/8.12/transforms/46894b85675e8b797bfea4501633915c/transformed/play-services-maps-18.1.0/res
-com.biteswipe.app-activity-1.8.0-9 /Users/fati/.gradle/caches/8.12/transforms/4c0f8ba3db416169f3e80ed0d69ad2f3/transformed/activity-1.8.0/res
-com.biteswipe.app-lifecycle-viewmodel-savedstate-2.6.2-10 /Users/fati/.gradle/caches/8.12/transforms/5d6de5978bbbcea30c79c6277f3baaa4/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
-com.biteswipe.app-core-1.12.0-11 /Users/fati/.gradle/caches/8.12/transforms/62c81c0d3ab17e605e3c4abbabedc17f/transformed/core-1.12.0/res
-com.biteswipe.app-annotation-experimental-1.3.0-12 /Users/fati/.gradle/caches/8.12/transforms/6680f221c223a0116eea18ccf7fbde4f/transformed/annotation-experimental-1.3.0/res
-com.biteswipe.app-viewpager2-1.0.0-13 /Users/fati/.gradle/caches/8.12/transforms/68e388180b7e59d133c78fac4e77921b/transformed/viewpager2-1.0.0/res
-com.biteswipe.app-fragment-1.3.6-14 /Users/fati/.gradle/caches/8.12/transforms/6ad12eaf3311b591ffd99b0838f06310/transformed/fragment-1.3.6/res
-com.biteswipe.app-core-ktx-1.12.0-15 /Users/fati/.gradle/caches/8.12/transforms/6eaced759087f04b9012779160edf143/transformed/core-ktx-1.12.0/res
-com.biteswipe.app-cardview-1.0.0-16 /Users/fati/.gradle/caches/8.12/transforms/729d6e45a1db8789092f076eb5226cac/transformed/cardview-1.0.0/res
-com.biteswipe.app-coordinatorlayout-1.1.0-17 /Users/fati/.gradle/caches/8.12/transforms/73cc8de42a5b0fdd0a595a757737d785/transformed/coordinatorlayout-1.1.0/res
-com.biteswipe.app-emoji2-1.2.0-18 /Users/fati/.gradle/caches/8.12/transforms/7ca2b3b84b0d0b3913614a489c25a14b/transformed/emoji2-1.2.0/res
-com.biteswipe.app-glide-4.16.0-19 /Users/fati/.gradle/caches/8.12/transforms/7cc24ea5dd813d4a4b2c43945574c12e/transformed/glide-4.16.0/res
-com.biteswipe.app-transition-1.2.0-20 /Users/fati/.gradle/caches/8.12/transforms/7f607bb6afd2d7404ca24aefc13fed37/transformed/transition-1.2.0/res
-com.biteswipe.app-play-services-basement-18.1.0-21 /Users/fati/.gradle/caches/8.12/transforms/85d891a9863020844199a85bfa1737a6/transformed/play-services-basement-18.1.0/res
-com.biteswipe.app-recyclerview-1.1.0-22 /Users/fati/.gradle/caches/8.12/transforms/865a26bb002c613a96bd6931e01789b3/transformed/recyclerview-1.1.0/res
-com.biteswipe.app-lifecycle-viewmodel-ktx-2.6.2-23 /Users/fati/.gradle/caches/8.12/transforms/8b8e13b141768114079cb586842784de/transformed/lifecycle-viewmodel-ktx-2.6.2/res
-com.biteswipe.app-lifecycle-livedata-core-2.6.2-24 /Users/fati/.gradle/caches/8.12/transforms/9b5df59cdd668e707161d3ac0db97043/transformed/lifecycle-livedata-core-2.6.2/res
-com.biteswipe.app-startup-runtime-1.1.1-25 /Users/fati/.gradle/caches/8.12/transforms/9c103542e1877ec8642fb06bad7cc7b4/transformed/startup-runtime-1.1.1/res
-com.biteswipe.app-lifecycle-viewmodel-2.6.2-26 /Users/fati/.gradle/caches/8.12/transforms/aa00846b4ad515e6b5c23a321b9392aa/transformed/lifecycle-viewmodel-2.6.2/res
-com.biteswipe.app-lifecycle-process-2.6.2-27 /Users/fati/.gradle/caches/8.12/transforms/ae88509d12e82453fb62329272aa8fb7/transformed/lifecycle-process-2.6.2/res
-com.biteswipe.app-core-runtime-2.2.0-28 /Users/fati/.gradle/caches/8.12/transforms/b52371d4325dfef1dc9213a4add66392/transformed/core-runtime-2.2.0/res
-com.biteswipe.app-appcompat-1.6.1-29 /Users/fati/.gradle/caches/8.12/transforms/b87ba922bc5d413a25b24fdb733c5cc6/transformed/appcompat-1.6.1/res
-com.biteswipe.app-drawerlayout-1.1.1-30 /Users/fati/.gradle/caches/8.12/transforms/b8c500c8ba337c422100869f4e853e57/transformed/drawerlayout-1.1.1/res
-com.biteswipe.app-lifecycle-runtime-2.6.2-31 /Users/fati/.gradle/caches/8.12/transforms/c2f2d4cbcbfa22a6dc793ace448b9fab/transformed/lifecycle-runtime-2.6.2/res
-com.biteswipe.app-material-1.10.0-32 /Users/fati/.gradle/caches/8.12/transforms/d6fb94928eeabe5a3a87ede7465643fd/transformed/material-1.10.0/res
-com.biteswipe.app-savedstate-1.2.1-33 /Users/fati/.gradle/caches/8.12/transforms/dadf000c3108fcf63b3ac663e8bdee55/transformed/savedstate-1.2.1/res
-com.biteswipe.app-pngs-34 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/generated/res/pngs/debug
-com.biteswipe.app-resValues-35 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/generated/res/resValues/debug
-com.biteswipe.app-packageDebugResources-36 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.biteswipe.app-packageDebugResources-37 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.biteswipe.app-merged_res-38 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/intermediates/merged_res/debug
-com.biteswipe.app-debug-39 /Users/fati/Documents/CPEN321 TA/cursor-project/app/src/debug/res
-com.biteswipe.app-main-40 /Users/fati/Documents/CPEN321 TA/cursor-project/app/src/main/res
+com.biteswipe.app-material-1.10.0-0 /Users/fati/.gradle/caches/8.12/transforms/058a0d85d7d0b7aca3dec586bda2fe06/transformed/material-1.10.0/res
+com.biteswipe.app-navigation-runtime-2.7.5-1 /Users/fati/.gradle/caches/8.12/transforms/0c4a6425ab5d4c80f830e41b0c1c1912/transformed/navigation-runtime-2.7.5/res
+com.biteswipe.app-jetified-fragment-ktx-1.6.2-2 /Users/fati/.gradle/caches/8.12/transforms/125c8bfecb888eb5e770e5f4902b10fd/transformed/jetified-fragment-ktx-1.6.2/res
+com.biteswipe.app-jetified-activity-ktx-1.8.0-3 /Users/fati/.gradle/caches/8.12/transforms/140a49518526f21ff652cebed534459c/transformed/jetified-activity-ktx-1.8.0/res
+com.biteswipe.app-jetified-core-ktx-1.12.0-4 /Users/fati/.gradle/caches/8.12/transforms/16aeb4397ec2bb3a4ac06fc936f166ce/transformed/jetified-core-ktx-1.12.0/res
+com.biteswipe.app-jetified-startup-runtime-1.1.1-5 /Users/fati/.gradle/caches/8.12/transforms/1802f7bcc96fa9d69529a617b9171e98/transformed/jetified-startup-runtime-1.1.1/res
+com.biteswipe.app-constraintlayout-2.1.4-6 /Users/fati/.gradle/caches/8.12/transforms/1a2da1ef509683436e0159b5061e7c80/transformed/constraintlayout-2.1.4/res
+com.biteswipe.app-jetified-play-services-base-18.1.0-7 /Users/fati/.gradle/caches/8.12/transforms/26fec627f9a006915e09b59f70cf7bd4/transformed/jetified-play-services-base-18.1.0/res
+com.biteswipe.app-jetified-appcompat-resources-1.6.1-8 /Users/fati/.gradle/caches/8.12/transforms/2e5ded157b60ca52e134faff126a4797/transformed/jetified-appcompat-resources-1.6.1/res
+com.biteswipe.app-slidingpanelayout-1.2.0-9 /Users/fati/.gradle/caches/8.12/transforms/376fe84ec3f21b587bf3db9ac89c53c2/transformed/slidingpanelayout-1.2.0/res
+com.biteswipe.app-drawerlayout-1.1.1-10 /Users/fati/.gradle/caches/8.12/transforms/378544f54e150b2cd18ea6d33c1a15ab/transformed/drawerlayout-1.1.1/res
+com.biteswipe.app-jetified-lifecycle-viewmodel-ktx-2.6.2-11 /Users/fati/.gradle/caches/8.12/transforms/426b22a8874558c3a63fe82e21766f15/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/res
+com.biteswipe.app-lifecycle-runtime-2.6.2-12 /Users/fati/.gradle/caches/8.12/transforms/57b8e62ea0233157e9ac7d39cd53429e/transformed/lifecycle-runtime-2.6.2/res
+com.biteswipe.app-jetified-savedstate-ktx-1.2.1-13 /Users/fati/.gradle/caches/8.12/transforms/5d59e1d67dea0e25d71092624947427f/transformed/jetified-savedstate-ktx-1.2.1/res
+com.biteswipe.app-recyclerview-1.1.0-14 /Users/fati/.gradle/caches/8.12/transforms/5f1a7357fb54e8f072e4a8656702f4eb/transformed/recyclerview-1.1.0/res
+com.biteswipe.app-jetified-window-1.0.0-15 /Users/fati/.gradle/caches/8.12/transforms/6041b97efa45bc56183044e84c573c07/transformed/jetified-window-1.0.0/res
+com.biteswipe.app-jetified-play-services-basement-18.1.0-16 /Users/fati/.gradle/caches/8.12/transforms/654d8ddbe9ef3cabff4309eaa0d307f7/transformed/jetified-play-services-basement-18.1.0/res
+com.biteswipe.app-navigation-ui-ktx-2.7.5-17 /Users/fati/.gradle/caches/8.12/transforms/69286cbba081c8013d2a2a3694334282/transformed/navigation-ui-ktx-2.7.5/res
+com.biteswipe.app-jetified-lifecycle-livedata-ktx-2.6.2-18 /Users/fati/.gradle/caches/8.12/transforms/6a9ea0bfaa2cd8462a90348060791bf8/transformed/jetified-lifecycle-livedata-ktx-2.6.2/res
+com.biteswipe.app-jetified-lifecycle-runtime-ktx-2.6.2-19 /Users/fati/.gradle/caches/8.12/transforms/734d188796311c288797aa3bffdfb989/transformed/jetified-lifecycle-runtime-ktx-2.6.2/res
+com.biteswipe.app-jetified-lifecycle-livedata-core-ktx-2.6.2-20 /Users/fati/.gradle/caches/8.12/transforms/7a7bda444ec6da0f255ce9fa5a256bc2/transformed/jetified-lifecycle-livedata-core-ktx-2.6.2/res
+com.biteswipe.app-navigation-common-2.7.5-21 /Users/fati/.gradle/caches/8.12/transforms/7b96b1d980cc5a4d43e7b3639bd72518/transformed/navigation-common-2.7.5/res
+com.biteswipe.app-appcompat-1.6.1-22 /Users/fati/.gradle/caches/8.12/transforms/810d39866a5e47fc9751012b14039553/transformed/appcompat-1.6.1/res
+com.biteswipe.app-cardview-1.0.0-23 /Users/fati/.gradle/caches/8.12/transforms/87d8497c0251ccfbf37b3c826bd666c7/transformed/cardview-1.0.0/res
+com.biteswipe.app-jetified-glide-4.16.0-24 /Users/fati/.gradle/caches/8.12/transforms/8af14c6a0da0508e0556faac0f193123/transformed/jetified-glide-4.16.0/res
+com.biteswipe.app-jetified-activity-1.8.0-25 /Users/fati/.gradle/caches/8.12/transforms/90beaed9c18875955c9074ac351fe156/transformed/jetified-activity-1.8.0/res
+com.biteswipe.app-jetified-emoji2-1.2.0-26 /Users/fati/.gradle/caches/8.12/transforms/940227c52852810e5bffbdf15c882f22/transformed/jetified-emoji2-1.2.0/res
+com.biteswipe.app-transition-1.4.1-27 /Users/fati/.gradle/caches/8.12/transforms/961e3cc62e001396af009ae1fcd21abe/transformed/transition-1.4.1/res
+com.biteswipe.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-28 /Users/fati/.gradle/caches/8.12/transforms/98915eca167f268c77cf1b9787aaf39d/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
+com.biteswipe.app-jetified-savedstate-1.2.1-29 /Users/fati/.gradle/caches/8.12/transforms/9c6f1be1a86d8fda7424aeb8beddcb36/transformed/jetified-savedstate-1.2.1/res
+com.biteswipe.app-jetified-play-services-maps-18.1.0-30 /Users/fati/.gradle/caches/8.12/transforms/9f763cb727af06f544e211df80c084e0/transformed/jetified-play-services-maps-18.1.0/res
+com.biteswipe.app-fragment-1.6.2-31 /Users/fati/.gradle/caches/8.12/transforms/b0a82573d83b0d609f5fb3eb2d3d1344/transformed/fragment-1.6.2/res
+com.biteswipe.app-navigation-runtime-ktx-2.7.5-32 /Users/fati/.gradle/caches/8.12/transforms/b63902982f5477d0830d63337953eb35/transformed/navigation-runtime-ktx-2.7.5/res
+com.biteswipe.app-navigation-fragment-2.7.5-33 /Users/fati/.gradle/caches/8.12/transforms/b660459b67ba15dad0572c4110517940/transformed/navigation-fragment-2.7.5/res
+com.biteswipe.app-navigation-ui-2.7.5-34 /Users/fati/.gradle/caches/8.12/transforms/c141f93df0b5bc0aaf0b062a271bee5c/transformed/navigation-ui-2.7.5/res
+com.biteswipe.app-lifecycle-livedata-2.6.2-35 /Users/fati/.gradle/caches/8.12/transforms/c879c35ca92dffaeb25a6e9df3b361fa/transformed/lifecycle-livedata-2.6.2/res
+com.biteswipe.app-navigation-fragment-ktx-2.7.5-36 /Users/fati/.gradle/caches/8.12/transforms/ca5d2611d597278cce179101f4aa4a3c/transformed/navigation-fragment-ktx-2.7.5/res
+com.biteswipe.app-core-1.12.0-37 /Users/fati/.gradle/caches/8.12/transforms/cec123e1838b4c9744a5408d2c61712d/transformed/core-1.12.0/res
+com.biteswipe.app-lifecycle-viewmodel-2.6.2-38 /Users/fati/.gradle/caches/8.12/transforms/d4cbe52a6a08ef6c1bfba18a62b22c7e/transformed/lifecycle-viewmodel-2.6.2/res
+com.biteswipe.app-jetified-emoji2-views-helper-1.2.0-39 /Users/fati/.gradle/caches/8.12/transforms/da8549fa19d0a7c3a2846cec0e5a97d5/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.biteswipe.app-lifecycle-livedata-core-2.6.2-40 /Users/fati/.gradle/caches/8.12/transforms/dbb7a81cc7158955d12ea08e08333957/transformed/lifecycle-livedata-core-2.6.2/res
+com.biteswipe.app-jetified-profileinstaller-1.3.0-41 /Users/fati/.gradle/caches/8.12/transforms/e61d8f7ecc7636b6f950adb70501b9ae/transformed/jetified-profileinstaller-1.3.0/res
+com.biteswipe.app-jetified-lifecycle-process-2.6.2-42 /Users/fati/.gradle/caches/8.12/transforms/f0623a53f9e1c366ddd8d5dd4d5aea27/transformed/jetified-lifecycle-process-2.6.2/res
+com.biteswipe.app-jetified-annotation-experimental-1.3.0-43 /Users/fati/.gradle/caches/8.12/transforms/f2e528812b2392645ccba3c6eab2e306/transformed/jetified-annotation-experimental-1.3.0/res
+com.biteswipe.app-coordinatorlayout-1.1.0-44 /Users/fati/.gradle/caches/8.12/transforms/f859b6dbed29dd2846880dba9d6caf41/transformed/coordinatorlayout-1.1.0/res
+com.biteswipe.app-jetified-viewpager2-1.0.0-45 /Users/fati/.gradle/caches/8.12/transforms/f8947641c6d15f7868efa699cab3e696/transformed/jetified-viewpager2-1.0.0/res
+com.biteswipe.app-navigation-common-ktx-2.7.5-46 /Users/fati/.gradle/caches/8.12/transforms/f9153347fcb0fe165faacc46a9607d7c/transformed/navigation-common-ktx-2.7.5/res
+com.biteswipe.app-core-runtime-2.2.0-47 /Users/fati/.gradle/caches/8.12/transforms/fc8074f1f25a626768bf2bb2d0319a8e/transformed/core-runtime-2.2.0/res
+com.biteswipe.app-pngs-48 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/generated/res/pngs/debug
+com.biteswipe.app-resValues-49 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/generated/res/resValues/debug
+com.biteswipe.app-packageDebugResources-50 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.biteswipe.app-packageDebugResources-51 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.biteswipe.app-merged_res-52 /Users/fati/Documents/CPEN321 TA/cursor-project/app/build/intermediates/merged_res/debug
+com.biteswipe.app-debug-53 /Users/fati/Documents/CPEN321 TA/cursor-project/app/src/debug/res
+com.biteswipe.app-main-54 /Users/fati/Documents/CPEN321 TA/cursor-project/app/src/main/res

@@ -1,0 +1,878 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>122</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>131</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>138</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>246</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>122</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>131</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>138</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>246</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@sinclair/typebox/readme.md</file>
+  <line>7</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@sinclair/typebox/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ansi-escapes/readme.md</file>
+  <line>181</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ansi-escapes/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ansi-styles/readme.md</file>
+  <line>7</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ansi-styles/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>19</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/chalk/readme.md</file>
+  <line>14</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/chalk/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/chalk/readme.md</file>
+  <line>31</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/chalk/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/chalk/readme.md</file>
+  <line>36</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/chalk/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/cliui/README.md</file>
+  <line>69</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/cliui/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/electron-to-chromium/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/electron-to-chromium/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>122</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>131</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>138</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>246</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/execa/readme.md</file>
+  <line>1</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/execa/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/fill-range/README.md</file>
+  <line>227</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/fill-range/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/glob-parent/README.md</file>
+  <line>3</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/glob-parent/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>122</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>131</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>138</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>246</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-circus/README.md</file>
+  <line>4</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-circus/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>3</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-circus/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-circus/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>3</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kareem/README.md</file>
+  <line>10</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kareem/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kleur/readme.md</file>
+  <line>69</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kleur/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kleur/readme.md</file>
+  <line>80</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kleur/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>122</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>131</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>138</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>246</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/pretty-format/node_modules/ansi-styles/readme.md</file>
+  <line>7</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/pretty-format/node_modules/ansi-styles/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/query-string/readme.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/query-string/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>122</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>131</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>138</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>246</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>122</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>131</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>138</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>246</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>122</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>131</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>138</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>246</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md</file>
+  <line>295</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/README.md</file>
+  <line>15</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md</file>
+  <line>23</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>5</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/wrap-ansi/readme.md</file>
+  <line>23</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/wrap-ansi/readme.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>3</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/yargs-parser/README.md</file>
+  <line>12</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/yargs-parser/README.md" />
+  <problem_class id="HtmlRequiredAltAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing required 'alt' attribute</problem_class>
+  <description>Missing required 'alt' attribute</description>
+  <highlighted_element>img</highlighted_element>
+  <language>XML</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+</problems>

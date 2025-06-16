@@ -1,0 +1,62 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown attribute</problem_class>
+  <description>Attribute width is not allowed here</description>
+  <highlighted_element>width</highlighted_element>
+  <language>XML</language>
+  <offset>87</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown attribute</problem_class>
+  <description>Attribute width is not allowed here</description>
+  <highlighted_element>width</highlighted_element>
+  <language>XML</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown attribute</problem_class>
+  <description>Attribute width is not allowed here</description>
+  <highlighted_element>width</highlighted_element>
+  <language>XML</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>11</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown attribute</problem_class>
+  <description>Attribute width is not allowed here</description>
+  <highlighted_element>width</highlighted_element>
+  <language>XML</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/sprintf-js/demo/angular.html</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/sprintf-js/demo/angular.html" />
+  <problem_class id="HtmlUnknownAttribute" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unknown attribute</problem_class>
+  <description>Attribute ng-app is not allowed here</description>
+  <highlighted_element>ng-app</highlighted_element>
+  <language>XML</language>
+  <offset>6</offset>
+  <length>6</length>
+</problem>
+</problems>

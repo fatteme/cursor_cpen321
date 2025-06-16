@@ -1,0 +1,614 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ansi-styles/readme.md</file>
+  <line>7</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ansi-styles/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'screenshot.svg'</description>
+  <highlighted_element>screenshot.svg</highlighted_element>
+  <language>HTML</language>
+  <offset>10</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'https:'</description>
+  <highlighted_element>https:</highlighted_element>
+  <language>HTML</language>
+  <offset>466</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory ''</description>
+  <highlighted_element />
+  <language>HTML</language>
+  <offset>473</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'axios-http.com'</description>
+  <highlighted_element>axios-http.com</highlighted_element>
+  <language>HTML</language>
+  <offset>474</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'assets'</description>
+  <highlighted_element>assets</highlighted_element>
+  <language>HTML</language>
+  <offset>489</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'sponsors'</description>
+  <highlighted_element>sponsors</highlighted_element>
+  <language>HTML</language>
+  <offset>496</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'stytch_white.png'</description>
+  <highlighted_element>stytch_white.png</highlighted_element>
+  <language>HTML</language>
+  <offset>505</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'https:'</description>
+  <highlighted_element>https:</highlighted_element>
+  <language>HTML</language>
+  <offset>357</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory ''</description>
+  <highlighted_element />
+  <language>HTML</language>
+  <offset>364</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'axios-http.com'</description>
+  <highlighted_element>axios-http.com</highlighted_element>
+  <language>HTML</language>
+  <offset>365</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'assets'</description>
+  <highlighted_element>assets</highlighted_element>
+  <language>HTML</language>
+  <offset>380</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'sponsors'</description>
+  <highlighted_element>sponsors</highlighted_element>
+  <language>HTML</language>
+  <offset>387</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'descope_white.png'</description>
+  <highlighted_element>descope_white.png</highlighted_element>
+  <language>HTML</language>
+  <offset>396</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/browserslist/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/browserslist/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'img'</description>
+  <highlighted_element>img</highlighted_element>
+  <language>HTML</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/browserslist/README.md</file>
+  <line>43</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/browserslist/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'screenshot.webp'</description>
+  <highlighted_element>screenshot.webp</highlighted_element>
+  <language>HTML</language>
+  <offset>17</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/chalk/readme.md</file>
+  <line>4</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/chalk/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'media'</description>
+  <highlighted_element>media</highlighted_element>
+  <language>HTML</language>
+  <offset>23</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/chalk/readme.md</file>
+  <line>4</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/chalk/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'logo.svg'</description>
+  <highlighted_element>logo.svg</highlighted_element>
+  <language>HTML</language>
+  <offset>29</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/cliui/README.md</file>
+  <line>69</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/cliui/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'screenshot.png'</description>
+  <highlighted_element>screenshot.png</highlighted_element>
+  <language>HTML</language>
+  <offset>22</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff/README.md</file>
+  <line>160</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'images'</description>
+  <highlighted_element>images</highlighted_element>
+  <language>HTML</language>
+  <offset>10</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff/README.md</file>
+  <line>160</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'node_example.png'</description>
+  <highlighted_element>node_example.png</highlighted_element>
+  <language>HTML</language>
+  <offset>17</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff/README.md</file>
+  <line>195</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'images'</description>
+  <highlighted_element>images</highlighted_element>
+  <language>HTML</language>
+  <offset>10</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff/README.md</file>
+  <line>195</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'web_example.png'</description>
+  <highlighted_element>web_example.png</highlighted_element>
+  <language>HTML</language>
+  <offset>17</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/execa/readme.md</file>
+  <line>1</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/execa/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'media'</description>
+  <highlighted_element>media</highlighted_element>
+  <language>HTML</language>
+  <offset>10</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/execa/readme.md</file>
+  <line>1</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/execa/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'logo.svg'</description>
+  <highlighted_element>logo.svg</highlighted_element>
+  <language>HTML</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kleur/readme.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kleur/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'shots'</description>
+  <highlighted_element>shots</highlighted_element>
+  <language>HTML</language>
+  <offset>12</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kleur/readme.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kleur/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'logo.png'</description>
+  <highlighted_element>logo.png</highlighted_element>
+  <language>HTML</language>
+  <offset>18</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kleur/readme.md</file>
+  <line>69</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kleur/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'shots'</description>
+  <highlighted_element>shots</highlighted_element>
+  <language>HTML</language>
+  <offset>10</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kleur/readme.md</file>
+  <line>69</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kleur/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file '1.png'</description>
+  <highlighted_element>1.png</highlighted_element>
+  <language>HTML</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kleur/readme.md</file>
+  <line>80</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kleur/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'shots'</description>
+  <highlighted_element>shots</highlighted_element>
+  <language>HTML</language>
+  <offset>10</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/kleur/readme.md</file>
+  <line>80</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/kleur/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file '2.png'</description>
+  <highlighted_element>2.png</highlighted_element>
+  <language>HTML</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/pretty-format/node_modules/ansi-styles/readme.md</file>
+  <line>7</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/pretty-format/node_modules/ansi-styles/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'screenshot.svg'</description>
+  <highlighted_element>screenshot.svg</highlighted_element>
+  <language>HTML</language>
+  <offset>10</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/qs/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/qs/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'logos'</description>
+  <highlighted_element>logos</highlighted_element>
+  <language>HTML</language>
+  <offset>25</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/qs/README.md</file>
+  <line>2</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/qs/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'banner_default.png'</description>
+  <highlighted_element>banner_default.png</highlighted_element>
+  <language>HTML</language>
+  <offset>31</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/README.md</file>
+  <line>15</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/README.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'icon.png'</description>
+  <highlighted_element>icon.png</highlighted_element>
+  <language>HTML</language>
+  <offset>12</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>4</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'media'</description>
+  <highlighted_element>media</highlighted_element>
+  <language>HTML</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>4</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'logo.svg'</description>
+  <highlighted_element>logo.svg</highlighted_element>
+  <language>HTML</language>
+  <offset>17</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>39</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'https:'</description>
+  <highlighted_element>https:</highlighted_element>
+  <language>HTML</language>
+  <offset>71</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>39</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory ''</description>
+  <highlighted_element />
+  <language>HTML</language>
+  <offset>78</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>39</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'sindresorhus.com'</description>
+  <highlighted_element>sindresorhus.com</highlighted_element>
+  <language>HTML</language>
+  <offset>79</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>39</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'assets'</description>
+  <highlighted_element>assets</highlighted_element>
+  <language>HTML</language>
+  <offset>96</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>39</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'thanks'</description>
+  <highlighted_element>thanks</highlighted_element>
+  <language>HTML</language>
+  <offset>103</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>39</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'logto-logo-dark.svg'</description>
+  <highlighted_element>logto-logo-dark.svg?x</highlighted_element>
+  <language>HTML</language>
+  <offset>110</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>40</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'https:'</description>
+  <highlighted_element>https:</highlighted_element>
+  <language>HTML</language>
+  <offset>72</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>40</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory ''</description>
+  <highlighted_element />
+  <language>HTML</language>
+  <offset>79</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>40</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'sindresorhus.com'</description>
+  <highlighted_element>sindresorhus.com</highlighted_element>
+  <language>HTML</language>
+  <offset>80</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>40</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'assets'</description>
+  <highlighted_element>assets</highlighted_element>
+  <language>HTML</language>
+  <offset>97</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>40</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'thanks'</description>
+  <highlighted_element>thanks</highlighted_element>
+  <language>HTML</language>
+  <offset>104</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md</file>
+  <line>40</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'logto-logo-light.svg'</description>
+  <highlighted_element>logto-logo-light.svg?x</highlighted_element>
+  <language>HTML</language>
+  <offset>111</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md</file>
+  <line>4</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'media'</description>
+  <highlighted_element>media</highlighted_element>
+  <language>HTML</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md</file>
+  <line>4</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/type-fest/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'logo.svg'</description>
+  <highlighted_element>logo.svg</highlighted_element>
+  <language>HTML</language>
+  <offset>17</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/wrap-ansi/readme.md</file>
+  <line>23</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/wrap-ansi/readme.md" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'screenshot.png'</description>
+  <highlighted_element>screenshot.png</highlighted_element>
+  <language>HTML</language>
+  <offset>22</offset>
+  <length>14</length>
+</problem>
+</problems>

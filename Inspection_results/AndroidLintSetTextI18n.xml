@@ -1,0 +1,30 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/groups/GroupsAdapter.kt</file>
+  <line>52</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.groups</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/groups/GroupsAdapter.kt" />
+  <problem_class id="AndroidLintSetTextI18n" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+  <hints />
+  <description>&lt;html&gt;Do not concatenate text displayed with &lt;code&gt;setText&lt;/code&gt;. Use resource string with placeholders.&lt;/html&gt;</description>
+  <highlighted_element>&quot;${group.members.size} members&quot;</highlighted_element>
+  <language>kotlin</language>
+  <offset>39</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/groups/GroupsAdapter.kt</file>
+  <line>52</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.groups</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/groups/GroupsAdapter.kt" />
+  <problem_class id="AndroidLintSetTextI18n" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TextView Internationalization</problem_class>
+  <hints />
+  <description>&lt;html&gt;String literal in &lt;code&gt;setText&lt;/code&gt; can not be translated. Use Android resources instead.&lt;/html&gt;</description>
+  <highlighted_element>members</highlighted_element>
+  <language>kotlin</language>
+  <offset>61</offset>
+  <length>8</length>
+</problem>
+</problems>

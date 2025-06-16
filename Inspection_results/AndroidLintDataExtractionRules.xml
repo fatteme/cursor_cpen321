@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+  <line>10</line>
+  <module>BiteSwipe.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidLintDataExtractionRules" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing data extraction rules</problem_class>
+  <hints />
+  <description>&lt;html&gt;The attribute &lt;code&gt;android:allowBackup&lt;/code&gt; is deprecated from Android 12 and the default allows backup&lt;/html&gt;</description>
+  <highlighted_element>true</highlighted_element>
+  <language>XML</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+</problems>

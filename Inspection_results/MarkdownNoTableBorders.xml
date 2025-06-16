@@ -1,0 +1,170 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/agentkeepalive/README.md</file>
+  <line>248</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/agentkeepalive/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>|[&lt;img src=&quot;https://avatars.githubusercontent.com/u/156269?v=4&quot; width=&quot;100px;&quot;/&gt;&lt;br/&gt;&lt;sub&gt;&lt;b&gt;fengmk2...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>3656</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>107</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_48x48.png) | ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>585</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>132</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>464</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>145</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>384</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>156</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>558</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>168</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>310</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>178</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>677</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>191</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>357</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>202</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>654</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>215</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>314</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>225</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>316</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/README.md</file>
+  <line>228</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>| Code | Message | | ---- | ------- | | 0 | &quot;Transport unknown&quot; | 1 | &quot;Session ID unknown&quot; | 2 | &quot;Ba...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>194</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jwa/README.md</file>
+  <line>10</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jwa/README.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>alg Parameter Value | Digital Signature or MAC Algorithm ----------------|--------------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>731</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jws/readme.md</file>
+  <line>24</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jws/readme.md" />
+  <problem_class id="MarkdownNoTableBorders" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Table doesn't have side borders</problem_class>
+  <description>For compatibility reasons, all table rows should have borders (pipe symbols) at the start and at the end</description>
+  <highlighted_element>alg Parameter Value | Digital Signature or MAC Algorithm ----------------|--------------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>731</length>
+</problem>
+</problems>

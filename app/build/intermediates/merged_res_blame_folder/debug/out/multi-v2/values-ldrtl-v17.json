@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.biteswipe.app-mergeDebugResources-36:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.biteswipe.app-mergeDebugResources-50:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/Users/fati/.gradle/caches/8.12/transforms/d6fb94928eeabe5a3a87ede7465643fd/transformed/material-1.10.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "source": "/Users/fati/.gradle/caches/8.12/transforms/058a0d85d7d0b7aca3dec586bda2fe06/transformed/material-1.10.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

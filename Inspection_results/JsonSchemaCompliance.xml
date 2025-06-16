@@ -1,0 +1,171 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dunder-proto/package.json</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dunder-proto/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: string. Actual: boolean.</description>
+  <highlighted_element>false</highlighted_element>
+  <language>JSON</language>
+  <offset>9</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dynamic-dedupe/package.json</file>
+  <line>37</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dynamic-dedupe/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: string. Actual: object.</description>
+  <highlighted_element>{ &quot;type&quot;: &quot;MIT&quot;, &quot;url&quot;: &quot;https://github.com/thlorenz/dynamic-dedupe/blob/master/LICENSE&quot; }</highlighted_element>
+  <language>JSON</language>
+  <offset>13</offset>
+  <length>100</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/lodash.includes/package.json</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/lodash.includes/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: array. Actual: string.</description>
+  <highlighted_element>&quot;lodash-modularized, includes&quot;</highlighted_element>
+  <language>JSON</language>
+  <offset>14</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/lodash.isboolean/package.json</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/lodash.isboolean/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: array. Actual: string.</description>
+  <highlighted_element>&quot;lodash-modularized, isboolean&quot;</highlighted_element>
+  <language>JSON</language>
+  <offset>14</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/lodash.isinteger/package.json</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/lodash.isinteger/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: array. Actual: string.</description>
+  <highlighted_element>&quot;lodash-modularized, isinteger&quot;</highlighted_element>
+  <language>JSON</language>
+  <offset>14</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/lodash.isnumber/package.json</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/lodash.isnumber/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: array. Actual: string.</description>
+  <highlighted_element>&quot;lodash-modularized, isnumber&quot;</highlighted_element>
+  <language>JSON</language>
+  <offset>14</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/lodash.isplainobject/package.json</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/lodash.isplainobject/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: array. Actual: string.</description>
+  <highlighted_element>&quot;lodash-modularized, isplainobject&quot;</highlighted_element>
+  <language>JSON</language>
+  <offset>14</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/lodash.isstring/package.json</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/lodash.isstring/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: array. Actual: string.</description>
+  <highlighted_element>&quot;lodash-modularized, isstring&quot;</highlighted_element>
+  <language>JSON</language>
+  <offset>14</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/lodash.memoize/package.json</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/lodash.memoize/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: array. Actual: string.</description>
+  <highlighted_element>&quot;lodash-modularized, memoize&quot;</highlighted_element>
+  <language>JSON</language>
+  <offset>14</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/lodash.once/package.json</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/lodash.once/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: array. Actual: string.</description>
+  <highlighted_element>&quot;lodash-modularized, once&quot;</highlighted_element>
+  <language>JSON</language>
+  <offset>14</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/math-intrinsics/package.json</file>
+  <line>5</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/math-intrinsics/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: string. Actual: boolean.</description>
+  <highlighted_element>false</highlighted_element>
+  <language>JSON</language>
+  <offset>9</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/resolve/test/resolver/false_main/package.json</file>
+  <line>3</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/resolve/test/resolver/false_main/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: string. Actual: boolean.</description>
+  <highlighted_element>false</highlighted_element>
+  <language>JSON</language>
+  <offset>9</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/resolve/test/resolver/invalid_main/package.json</file>
+  <line>3</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/resolve/test/resolver/invalid_main/package.json" />
+  <problem_class id="JsonSchemaCompliance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Compliance with JSON schema</problem_class>
+  <description>Incompatible types.
+ Required: string. Actual: array.</description>
+  <highlighted_element>[ &quot;why is this a thing&quot;, &quot;srsly omg wtf&quot; ]</highlighted_element>
+  <language>JSON</language>
+  <offset>10</offset>
+  <length>52</length>
+</problem>
+</problems>

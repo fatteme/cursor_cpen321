@@ -1,0 +1,155 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/api/RestaurantApi.kt</file>
+  <line>48</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.api</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.api.RestaurantApi java.lang.Object getNextRestaurant(kotlin.coroutines.Continuation&lt;? super com.biteswipe.data.model.Restaurant&gt; $completion)" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>45</length>
+  <highlighted_element>suspend fun getNextRestaurant(): Restaurant {</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/model/Restaurant.kt</file>
+  <line>17</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.model</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.model.OpeningHours OpeningHours(boolean isOpenNow, java.util.List&lt;com.biteswipe.data.model.Period&gt; periods, java.util.List&lt;java.lang.String&gt; weekdayText)" />
+  <language>kotlin</language>
+  <offset>23</offset>
+  <length>1</length>
+  <highlighted_element>(</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/model/Restaurant.kt</file>
+  <line>23</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.model</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.model.Period Period(com.biteswipe.data.model.TimeInfo open, com.biteswipe.data.model.TimeInfo close)" />
+  <language>kotlin</language>
+  <offset>17</offset>
+  <length>1</length>
+  <highlighted_element>(</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/model/Restaurant.kt</file>
+  <line>28</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.model</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.model.TimeInfo TimeInfo(int day, java.lang.String time)" />
+  <language>kotlin</language>
+  <offset>19</offset>
+  <length>1</length>
+  <highlighted_element>(</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/repository/GroupRepository.kt</file>
+  <line>28</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.repository</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.repository.GroupRepository java.lang.Object getGroupDetails(java.lang.String groupId, kotlin.coroutines.Continuation&lt;? super error.NonExistentClass&gt; $completion)" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>83</length>
+  <highlighted_element>suspend fun getGroupDetails(groupId: String): Group = withContext(Dispatchers.IO) {</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/data/repository/RestaurantRepository.kt</file>
+  <line>37</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.data.repository</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.data.repository.RestaurantRepository java.lang.Object getRestaurantsByLocation(com.google.android.gms.maps.model.LatLng location, int radius, kotlin.coroutines.Continuation&lt;? super java.util.List&lt;? extends com.biteswipe.data.model.Restaurant&gt;&gt; $completion)" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>117</length>
+  <highlighted_element>suspend fun getRestaurantsByLocation(location: LatLng, radius: Int): List&lt;Restaurant&gt; = withContext(...</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/groups/GroupsViewModel.kt</file>
+  <line>72</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.groups</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.ui.groups.GroupsViewModel void leaveGroup(java.lang.String groupId)" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>33</length>
+  <highlighted_element>fun leaveGroup(groupId: String) {</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/swipe/SwipeViewModel.kt</file>
+  <line>19</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.swipe</package>
+  <entry_point TYPE="field" FQNAME="com.biteswipe.ui.swipe.SwipeViewModel isLoading" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>45</length>
+  <highlighted_element>val isLoading: LiveData&lt;Boolean&gt; = _isLoading</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/swipe/SwipeViewModel.kt</file>
+  <line>22</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.swipe</package>
+  <entry_point TYPE="field" FQNAME="com.biteswipe.ui.swipe.SwipeViewModel error" />
+  <language>kotlin</language>
+  <offset>4</offset>
+  <length>36</length>
+  <highlighted_element>val error: LiveData&lt;String&gt; = _error</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is never used.</description>
+</problem>
+</problems>

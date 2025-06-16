@@ -1,0 +1,1454 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>461</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/core/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>461</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@babel/traverse/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md</file>
+  <line>165</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Old | New | | ------------- |:-------------:| | Can provide params | Can prov...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>902</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md</file>
+  <line>165</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>New</highlighted_element>
+  <language>Markdown</language>
+  <offset>14</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md</file>
+  <line>168</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>API key configured per method in params object</highlighted_element>
+  <language>Markdown</language>
+  <offset>32</offset>
+  <length>47</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md</file>
+  <line>169</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>Retry is configurable via [axios-retry](https://npmjs.com/package/axios-retry) or [retry-axios](http...</highlighted_element>
+  <language>Markdown</language>
+  <offset>27</offset>
+  <length>141</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md</file>
+  <line>170</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>Promises are default</highlighted_element>
+  <language>Markdown</language>
+  <offset>36</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md</file>
+  <line>173</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@googlemaps/google-maps-services-js/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>Supports [interceptors](https://github.com/axios/axios#interceptors)</highlighted_element>
+  <language>Markdown</language>
+  <offset>33</offset>
+  <length>69</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/@sinonjs/fake-timers/README.md</file>
+  <line>151</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/@sinonjs/fake-timers/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Default ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>4503</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/agentkeepalive/README.md</file>
+  <line>248</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/agentkeepalive/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>|[&lt;img src=&quot;https://avatars.githubusercontent.com/u/156269?v=4&quot; width=&quot;100px;&quot;/&gt;&lt;br/&gt;&lt;sub&gt;&lt;b&gt;fengmk2...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>3656</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/asynckit/README.md</file>
+  <line>20</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/asynckit/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| compression | size | | :----------------- | -------: | | asynckit.js | 12.34 kB ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>169</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/axios/README.md</file>
+  <line>107</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/axios/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_48x48.png) | ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>585</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>132</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>464</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>145</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>384</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>156</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>558</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>168</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>310</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>178</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>677</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>191</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>357</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>202</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>654</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>215</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>314</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md</file>
+  <line>225</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bcryptjs/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parameter | Type | Description |-----------------|-----------------|-------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>316</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>447</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Pattern** | **braces** | **[minimatch][]** | | -------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1614</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>473</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Pattern** | **braces** | **[minimatch][]** | | --------------- |...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>809</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/braces/README.md</file>
+  <line>562</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/braces/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Commits** | **Contributor** | | ----------- | ----...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>639</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bson/README.md</file>
+  <line>95</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bson/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Default | Description | | --- | --- | --- | --- | | text | &lt;code&gt;string&lt;/code&gt; | |...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>312</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bson/README.md</file>
+  <line>119</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bson/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Default | Description | | --- | --- | --- | --- | | value | &lt;code&gt;object&lt;/code&gt; | ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>980</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bson/README.md</file>
+  <line>148</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bson/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | --- | --- | --- | | bson | &lt;code&gt;object&lt;/code&gt; | The object to seri...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>198</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bson/README.md</file>
+  <line>159</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bson/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | --- | --- | --- | | ejson | &lt;code&gt;object&lt;/code&gt; | The Extended JSON...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>207</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bson/vendor/base64/README.md</file>
+  <line>106</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bson/vendor/base64/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://tw...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>203</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md</file>
+  <line>32</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Type | Description | |---------|----------|--------------------| | value | ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>226</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md</file>
+  <line>39</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Type | Description | |---------|--------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>277</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md</file>
+  <line>67</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Property | Type | Description ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>839</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md</file>
+  <line>77</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Type | Description | |---------|--------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>241</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md</file>
+  <line>118</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Type | Description | |---------------|--------|--------------------| | va...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>168</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md</file>
+  <line>124</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/bytes/Readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Type | Description | |---------|-------------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>185</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/chalk/readme.md</file>
+  <line>177</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/chalk/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Level | Description | | :---: | :--- | | `0` | All colors disabled | | `1` | Basic color support (...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>188</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ci-info/README.md</file>
+  <line>35</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ci-info/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Constant ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>5356</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ci-info/README.md</file>
+  <line>127</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ci-info/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Language | Repository | |----------|------------| | Go | https://github.com/hofstadter-io/ci...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>216</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/debug/README.md</file>
+  <line>101</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>378</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/debug/README.md</file>
+  <line>120</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md</file>
+  <line>56</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| comparisons of common items | values | output arguments | | :-----------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>399</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md</file>
+  <line>64</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| comparisons of common items | values | | :------------------------------- | :--------- | ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>249</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md</file>
+  <line>96</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| category of items | expression | value | | :----------------- | ------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>294</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md</file>
+  <line>139</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `commonItems[i]` | `aIndex` | | --: | :--------------- | -------: | | `0` | `'c'` ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>227</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md</file>
+  <line>312</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `diffLines[i]` | `aIndex` | `bIndex` | | ---: | :----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>883</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md</file>
+  <line>376</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `diffItems[i][0]` | `diffItems[i][1]` | | --: | ----------------: | :---------------- | | `0...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>527</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md</file>
+  <line>390</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| category of diff item | `[0]` | `[1]` lengths | subtotal | | :-------------------- | ----: | ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>329</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md</file>
+  <line>398</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/diff-sequences/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `diffItems[i][0]` | `diffItems[i][1]` | | --: | ----------------: | :---------------- | | `6...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>239</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/emoji-regex/README.md</file>
+  <line>67</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/emoji-regex/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://tw...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>203</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/README.md</file>
+  <line>228</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Code | Message | | ---- | ------- | | 0 | &quot;Transport unknown&quot; | 1 | &quot;Session ID unknown&quot; | 2 | &quot;Ba...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>194</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>461</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/engine.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/fill-range/README.md</file>
+  <line>207</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/fill-range/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Commits** | **Contributor** | | --- | --- | | 116 | [jonschlinkert](https://github.com/jonsc...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>407</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/http-errors/README.md</file>
+  <line>111</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/http-errors/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>|Status Code|Constructor Name | |-----------|-----------------------------| |400 ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1891</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-glob/README.md</file>
+  <line>183</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-glob/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Commits** | **Contributor** | | --- | --- | | 47 | [jonschlinkert](https://github.com/jonsch...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>306</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/is-number/README.md</file>
+  <line>165</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/is-number/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Commits** | **Contributor** | | --- | --- | | 49 | [jonschlinkert](https://github.com/jonschlin...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>267</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>461</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/istanbul-lib-source-maps/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md</file>
+  <line>223</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| value | named export | description | | ----: | :------------ | :-------------------- | ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>249</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md</file>
+  <line>237</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `diffs[i][0]` | `diffs[i][1]` | | --: | ------------: | :------------ | | `0` | `0...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>199</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md</file>
+  <line>249</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `diffs[i][0]` | `diffs[i][1]` | | --: | ------------: | :------------ | | `0` | `0...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>279</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md</file>
+  <line>291</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `diffs[i][0]` | `diffs[i][1]` | | --: | ------------: | :--------------- | | `0` | ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>300</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md</file>
+  <line>319</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `diffs[i][0]` | `diffs[i][1]` | | --: | ------------: | :------------------- | | `0` ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>187</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md</file>
+  <line>352</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `i` | `diffs[i][0]` | `diffs[i][1]` | | --: | ------------: | :------------ | | `0` | `1...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>199</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md</file>
+  <line>384</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| name | default | | :-------------------------------- | :--...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1179</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md</file>
+  <line>611</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jest-diff/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Indicator | untrimmed | trimmed | | ----------------: | :-------- | :------ | | `aInd...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>219</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jsesc/README.md</file>
+  <line>416</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jsesc/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://tw...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>203</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jwa/README.md</file>
+  <line>10</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jwa/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>alg Parameter Value | Digital Signature or MAC Algorithm ----------------|--------------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>731</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/jws/readme.md</file>
+  <line>24</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/jws/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>alg Parameter Value | Digital Signature or MAC Algorithm ----------------|--------------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>731</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>458</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Option** | **Type** | **Default value** | **Description** | | --- | --- | --- | --- | | `basenam...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>5999</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>750</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **pattern** | **regex equivalent** | **description** | | --- | --- | --- | | `?(pattern)` | `(patt...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>539</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/micromatch/README.md</file>
+  <line>974</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/micromatch/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Commits** | **Contributor** | | --- | --- | | 523 | [jonschlinkert](https://github.com/jonsc...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1739</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mongodb/README.md</file>
+  <line>9</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mongodb/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Site | Link ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1904</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>461</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/mquery/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/normalize-path/README.md</file>
+  <line>107</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/normalize-path/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Commits** | **Contributor** | | --- | --- | | 35 | [jonschlinkert](https://github.com/jonschlin...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>151</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>303</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Option** | **Type** | **Default value** | **Description** | | --- | --- | --- | --- | | `basenam...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>5678</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>349</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Option** | **Type** | **Default value** | **Description** | | --- | --- | --- | --- | | `tokens`...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>487</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>484</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Character** | **Description** | | --- | --- | | `*` | Matches any character zero or more times, ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>980</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>508</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Pattern** | **Description** | | --- | --- | | `@(pattern)` | Match _only one_ consecutive occurr...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>402</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/picomatch/README.md</file>
+  <line>598</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/picomatch/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Feature** | `minimatch` | `micromatch` | `picomatch` | `nanomatch` | `extglob` | `braces` | `exp...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>635</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/pretty-format/README.md</file>
+  <line>69</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/pretty-format/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| key | type | default | description ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>2234</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/pretty-format/README.md</file>
+  <line>209</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/pretty-format/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| key | type | description ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1861</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>467</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>777</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>498</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>672</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>529</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>672</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>563</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1128</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>601</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>496</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>632</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>597</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>665</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>638</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>702</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>800</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>744</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>981</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>793</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1113</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/prompts/readme.md</file>
+  <line>836</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/prompts/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Param | Type | Description | | ----- | :--: | ----------- | | message | `string` | Prompt message ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>760</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/punycode/README.md</file>
+  <line>142</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/punycode/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://tw...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>203</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/pure-rand/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/pure-rand/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Library | Algorithm | Mean time (ms) | Compared to pure-rand | | --------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>1349</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/pure-rand/README.md</file>
+  <line>184</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/pure-rand/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Library | Algorithm | Mean time (ms) | Compared to pure-rand | | ----------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>615</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/resolve.exports/readme.md</file>
+  <line>232</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/resolve.exports/readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| `entry` value | treated as | reason | |-|-|-| | `null` / `undefined` | `'.'` | default | | `'.'` |...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>371</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>461</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/Readme.md</file>
+  <line>8</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/Readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Adapter version | Socket.IO server version | |-----------------| ------------------------ | | 1.x....</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>187</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>461</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-adapter/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/Readme.md</file>
+  <line>14</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/Readme.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Parser version | Socket.IO server version | Protocol revision | |----------------| ---------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>263</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>166</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Name | Purpose | |-----------|-----------------------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>461</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socket.io-parser/node_modules/debug/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Formatter | Representation | |-----------|----------------| | `%O` | Pretty-print an Object o...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>437</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/socks/README.md</file>
+  <line>410</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/socks/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Socks Version | TCP | UDP | IPv4 | IPv6 | Hostname | | --- | :---: | :---: | :---: | :---: | :---:...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>217</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md</file>
+  <line>167</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Range** | **Result** ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>3457</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md</file>
+  <line>278</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/to-regex-range/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| **Commits** | **Contributor** | | --- | --- | | 63 | [jonschlinkert](https://github.com/jonsch...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>214</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/README.md</file>
+  <line>21</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| We are not doing semantic versioning and `23.10` is a re-write, run `npm i -D ts-jest@&quot;&lt;23.10.0&quot;` ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>273</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-jest/README.md</file>
+  <line>38</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-jest/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| | using npm | using yarn | | --...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>575</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/ts-node/README.md</file>
+  <line>787</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/ts-node/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| CommonJS | Native ECMAScript modules | |---|---| | Write native `import` syntax | Write native `im...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>742</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md</file>
+  <line>45</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Module | Without Cache | With Cache | | ---------------- | -------------:| ----------:| ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>249</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md</file>
+  <line>47</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>`218ms`</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md</file>
+  <line>47</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>`185ms`</highlighted_element>
+  <language>Markdown</language>
+  <offset>36</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md</file>
+  <line>48</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>`153ms`</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md</file>
+  <line>48</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>`113ms`</highlighted_element>
+  <language>Markdown</language>
+  <offset>36</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md</file>
+  <line>49</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>`228ms`</highlighted_element>
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md</file>
+  <line>49</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/v8-compile-cache-lib/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>`105ms`</highlighted_element>
+  <language>Markdown</language>
+  <offset>36</offset>
+  <length>12</length>
+</problem>
+</problems>

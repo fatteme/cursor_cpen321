@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/groups/GroupsViewModel.kt</file>
+  <line>27</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.groups</package>
+  <entry_point TYPE="method" FQNAME="com.biteswipe.ui.groups.GroupsViewModel void loadGroups()" />
+  <problem_class id="MemberVisibilityCanBePrivate" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class member can have 'private' visibility</problem_class>
+  <description>Function 'loadGroups' could be private</description>
+  <highlighted_element>loadGroups</highlighted_element>
+  <language>kotlin</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+</problems>

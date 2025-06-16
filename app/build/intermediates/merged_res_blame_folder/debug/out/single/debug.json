@@ -1,30 +1,106 @@
 [
     {
-        "merged": "com.biteswipe.app-merged_res-38:/layout_fragment_groups.xml.flat",
-        "source": "com.biteswipe.app-main-40:/layout/fragment_groups.xml"
+        "merged": "com.biteswipe.app-merged_res-52:/drawable_ic_dislike.xml.flat",
+        "source": "com.biteswipe.app-main-54:/drawable/ic_dislike.xml"
     },
     {
-        "merged": "com.biteswipe.app-merged_res-38:/layout_fragment_swipe.xml.flat",
-        "source": "com.biteswipe.app-main-40:/layout/fragment_swipe.xml"
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.biteswipe.app-merged_res-38:/drawable_ic_add.xml.flat",
-        "source": "com.biteswipe.app-main-40:/drawable/ic_add.xml"
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.biteswipe.app-merged_res-38:/layout_activity_main.xml.flat",
-        "source": "com.biteswipe.app-main-40:/layout/activity_main.xml"
+        "merged": "com.biteswipe.app-merged_res-52:/navigation_nav_graph.xml.flat",
+        "source": "com.biteswipe.app-main-54:/navigation/nav_graph.xml"
     },
     {
-        "merged": "com.biteswipe.app-merged_res-38:/navigation_nav_graph.xml.flat",
-        "source": "com.biteswipe.app-main-40:/navigation/nav_graph.xml"
+        "merged": "com.biteswipe.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.biteswipe.app-main-54:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.biteswipe.app-merged_res-38:/menu_bottom_navigation_menu.xml.flat",
-        "source": "com.biteswipe.app-main-40:/menu/bottom_navigation_menu.xml"
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.biteswipe.app-merged_res-38:/layout_item_group.xml.flat",
-        "source": "com.biteswipe.app-main-40:/layout/item_group.xml"
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/drawable_ic_like.xml.flat",
+        "source": "com.biteswipe.app-main-54:/drawable/ic_like.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/layout_fragment_groups.xml.flat",
+        "source": "com.biteswipe.app-main-54:/layout/fragment_groups.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.biteswipe.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/layout_item_group.xml.flat",
+        "source": "com.biteswipe.app-main-54:/layout/item_group.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/drawable_ic_profile.xml.flat",
+        "source": "com.biteswipe.app-main-54:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/layout_fragment_swipe.xml.flat",
+        "source": "com.biteswipe.app-main-54:/layout/fragment_swipe.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/drawable_ic_swipe.xml.flat",
+        "source": "com.biteswipe.app-main-54:/drawable/ic_swipe.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.biteswipe.app-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.biteswipe.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/drawable_ic_group.xml.flat",
+        "source": "com.biteswipe.app-main-54:/drawable/ic_group.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.biteswipe.app-main-54:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.biteswipe.app-merged_res-52:/drawable_ic_add.xml.flat",
+        "source": "com.biteswipe.app-main-54:/drawable/ic_add.xml"
     }
 ]

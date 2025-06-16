@@ -1,0 +1,218 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>6</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #contributors in file README.md</description>
+  <highlighted_element>contributors</highlighted_element>
+  <language>HTML</language>
+  <offset>11</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>178</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #tool-bennypowers in file README.md</description>
+  <highlighted_element>tool-bennypowers</highlighted_element>
+  <language>HTML</language>
+  <offset>278</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>180</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #ideas-dmnd in file README.md</description>
+  <highlighted_element>ideas-dmnd</highlighted_element>
+  <language>HTML</language>
+  <offset>507</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>180</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #infra-dmnd in file README.md</description>
+  <highlighted_element>infra-dmnd</highlighted_element>
+  <language>HTML</language>
+  <offset>572</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>180</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #maintenance-dmnd in file README.md</description>
+  <highlighted_element>maintenance-dmnd</highlighted_element>
+  <language>HTML</language>
+  <offset>652</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>180</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #projectManagement-dmnd in file README.md</description>
+  <highlighted_element>projectManagement-dmnd</highlighted_element>
+  <language>HTML</language>
+  <offset>707</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>180</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #tool-dmnd in file README.md</description>
+  <highlighted_element>tool-dmnd</highlighted_element>
+  <language>HTML</language>
+  <offset>775</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>185</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #maintenance-Haroenv in file README.md</description>
+  <highlighted_element>maintenance-Haroenv</highlighted_element>
+  <language>HTML</language>
+  <offset>328</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #tool-cometkim in file README.md</description>
+  <highlighted_element>tool-cometkim</highlighted_element>
+  <language>HTML</language>
+  <offset>249</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>186</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #infra-cometkim in file README.md</description>
+  <highlighted_element>infra-cometkim</highlighted_element>
+  <language>HTML</language>
+  <offset>295</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>188</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #ideas-JoshuaKGoldberg in file README.md</description>
+  <highlighted_element>ideas-JoshuaKGoldberg</highlighted_element>
+  <language>HTML</language>
+  <offset>556</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>188</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #infra-JoshuaKGoldberg in file README.md</description>
+  <highlighted_element>infra-JoshuaKGoldberg</highlighted_element>
+  <language>HTML</language>
+  <offset>632</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>188</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #maintenance-JoshuaKGoldberg in file README.md</description>
+  <highlighted_element>maintenance-JoshuaKGoldberg</highlighted_element>
+  <language>HTML</language>
+  <offset>723</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>188</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #projectManagement-JoshuaKGoldberg in file README.md</description>
+  <highlighted_element>projectManagement-JoshuaKGoldberg</highlighted_element>
+  <language>HTML</language>
+  <offset>789</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>188</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #tool-JoshuaKGoldberg in file README.md</description>
+  <highlighted_element>tool-JoshuaKGoldberg</highlighted_element>
+  <language>HTML</language>
+  <offset>868</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/dedent/README.md</file>
+  <line>194</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/dedent/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #tool-yvele in file README.md</description>
+  <highlighted_element>tool-yvele</highlighted_element>
+  <language>HTML</language>
+  <offset>238</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/human-signals/README.md</file>
+  <line>157</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/human-signals/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #design-ehmicky in file README.md</description>
+  <highlighted_element>design-ehmicky</highlighted_element>
+  <language>HTML</language>
+  <offset>293</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/server/node_modules/human-signals/README.md</file>
+  <line>157</line>
+  <module>BiteSwipe</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/server/node_modules/human-signals/README.md" />
+  <problem_class id="HtmlUnknownAnchorTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved fragment in a link</problem_class>
+  <description>Cannot resolve anchor #ideas-ehmicky in file README.md</description>
+  <highlighted_element>ideas-ehmicky</highlighted_element>
+  <language>HTML</language>
+  <offset>341</offset>
+  <length>13</length>
+</problem>
+</problems>

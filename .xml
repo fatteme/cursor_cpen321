@@ -1,0 +1,53 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/MainActivity.kt</file>
+  <line>7</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe</package>
+  <entry_point TYPE="class" FQNAME="com.biteswipe.MainActivity" />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>42</length>
+  <highlighted_element>class MainActivity : AppCompatActivity() {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/groups/GroupsFragment.kt</file>
+  <line>14</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.groups</package>
+  <entry_point TYPE="class" FQNAME="com.biteswipe.ui.groups.GroupsFragment" />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>35</length>
+  <highlighted_element>class GroupsFragment : Fragment() {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/java/com/biteswipe/ui/swipe/SwipeFragment.kt</file>
+  <line>16</line>
+  <module>BiteSwipe.app.main</module>
+  <package>com.biteswipe.ui.swipe</package>
+  <entry_point TYPE="class" FQNAME="com.biteswipe.ui.swipe.SwipeFragment" />
+  <language>kotlin</language>
+  <offset>0</offset>
+  <length>34</length>
+  <highlighted_element>class SwipeFragment : Fragment() {</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

@@ -1,0 +1,14 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml</file>
+  <line>19</line>
+  <module>BiteSwipe.app.main</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" />
+  <problem_class id="NavigationFile" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Navigation file</problem_class>
+  <description>'com.biteswipe.ui.profile.ProfileFragment' is not a valid destination for tag 'fragment'</description>
+  <highlighted_element>&quot;com.biteswipe.ui.profile.ProfileFragment&quot;</highlighted_element>
+  <language>XML</language>
+  <offset>21</offset>
+  <length>42</length>
+</problem>
+</problems>
