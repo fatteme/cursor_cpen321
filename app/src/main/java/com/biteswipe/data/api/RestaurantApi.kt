@@ -34,7 +34,7 @@ interface RestaurantApiService {
 }
 
 class RestaurantApi(private val authToken: String? = null) {
-    private val baseUrl = "http://localhost:3000/api/" // Update with your actual API URL
+    private val baseUrl = "http://10.0.2.2:3000/api/" // Update with your actual API URL
 
     private val loggingInterceptor = HttpLoggingInterceptor().apply {
         level = HttpLoggingInterceptor.Level.BODY
