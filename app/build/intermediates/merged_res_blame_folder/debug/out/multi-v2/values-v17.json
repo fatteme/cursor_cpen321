@@ -4,7 +4,7 @@
             "outputFile": "com.biteswipe.app-mergeDebugResources-50:/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/fati/.gradle/caches/8.12/transforms/810d39866a5e47fc9751012b14039553/transformed/appcompat-1.6.1/res/values-v17/values-v17.xml",
+                    "source": "/Users/fati/.gradle/caches/8.12/transforms/b87ba922bc5d413a25b24fdb733c5cc6/transformed/appcompat-1.6.1/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "com.biteswipe.app-mergeDebugResources-50:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/fati/.gradle/caches/8.12/transforms/810d39866a5e47fc9751012b14039553/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/fati/.gradle/caches/8.12/transforms/b87ba922bc5d413a25b24fdb733c5cc6/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/fati/.gradle/caches/8.12/transforms/058a0d85d7d0b7aca3dec586bda2fe06/transformed/material-1.10.0/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/fati/.gradle/caches/8.12/transforms/d6fb94928eeabe5a3a87ede7465643fd/transformed/material-1.10.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

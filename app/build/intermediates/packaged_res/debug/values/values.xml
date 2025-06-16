@@ -30,6 +30,10 @@
     <string name="swipe_dislike">Dislike</string>
     <string name="swipe_like">Like</string>
     <string name="swipe_no_more">No more restaurants to show</string>
+    <style name="CircleImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
     <style name="Theme.BiteSwipe" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

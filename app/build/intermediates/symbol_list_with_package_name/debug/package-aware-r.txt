@@ -3337,6 +3337,7 @@ id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
 id disjoint
+id dislikesCount
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -3351,9 +3352,11 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editProfileButton
 id edit_query
 id edit_text_id
 id elastic
+id emailText
 id embed
 id emptyView
 id end
@@ -3421,12 +3424,14 @@ id left
 id leftToRight
 id legacy
 id light
+id likesCount
 id line1
 id line3
 id linear
 id listMode
 id list_item
 id locale
+id logoutButton
 id ltr
 id m3_side_sheet
 id map
@@ -3434,6 +3439,7 @@ id marquee
 id masked
 id match_constraint
 id match_parent
+id matchesCount
 id material_clock_display
 id material_clock_display_and_toggle
 id material_clock_face
@@ -3549,6 +3555,7 @@ id pin
 id position
 id postLayout
 id pressed
+id profileImage
 id progressBar
 id progress_circular
 id progress_horizontal
@@ -3628,6 +3635,7 @@ id startToEnd
 id startVertical
 id staticLayout
 id staticPostLayout
+id statsCard
 id stop
 id stretch
 id submenuarrow
@@ -3688,6 +3696,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id usernameText
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3841,6 +3850,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_groups
+layout fragment_profile
 layout fragment_swipe
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
@@ -4410,6 +4420,7 @@ style Base_Widget_MaterialComponents_TextView
 style CardView
 style CardView_Dark
 style CardView_Light
+style CircleImageView
 style MaterialAlertDialog_Material3
 style MaterialAlertDialog_Material3_Animation
 style MaterialAlertDialog_Material3_Body_Text
